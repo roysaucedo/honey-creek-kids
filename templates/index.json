@@ -14,12 +14,62 @@
     },
     "section_reviews_slider_PDNUCL": {
       "type": "section-reviews-slider",
+      "blocks": {
+        "slide_H79nAt": {
+          "type": "Slide",
+          "settings": {
+            "rich_text": "<p>“A few of the students were crying because they felt so happy because they were touched by the music and the message. <span style=\"text-decoration:underline\"><strong>This is exactly what our school needed at this time.<\/strong><\/span>”<\/p><p><strong>Denis C. - Principal<\/strong><\/p>"
+          }
+        },
+        "slide_wU8gdt": {
+          "type": "Slide",
+          "settings": {
+            "rich_text": "<p>“A few of the students were crying because they felt so happy because they were touched by the music and the message. <span style=\"text-decoration:underline\"><strong>This is exactly what our school needed at this time.<\/strong><\/span>”<\/p><p><strong>Denis C. - Principal<\/strong><\/p>"
+          }
+        },
+        "slide_ndXFK3": {
+          "type": "Slide",
+          "settings": {
+            "rich_text": "<p>“A few of the students were crying because they felt so happy because they were touched by the music and the message. <span style=\"text-decoration:underline\"><strong>This is exactly what our school needed at this time.<\/strong><\/span>”<\/p><p><strong>Denis C. - Principal<\/strong><\/p>"
+          }
+        },
+        "slide_bi4Ehx": {
+          "type": "Slide",
+          "settings": {
+            "rich_text": "<p>“A few of the students were crying because they felt so happy because they were touched by the music and the message. <span style=\"text-decoration:underline\"><strong>This is exactly what our school needed at this time.<\/strong><\/span>”<\/p><p><strong>Denis C. - Principal<\/strong><\/p>"
+          }
+        },
+        "slide_xxGmCT": {
+          "type": "Slide",
+          "settings": {
+            "rich_text": "<p>“A few of the students were crying because they felt so happy because they were touched by the music and the message. <span style=\"text-decoration:underline\"><strong>This is exactly what our school needed at this time.<\/strong><\/span>”<\/p><p><strong>Denis C. - Principal<\/strong><\/p>"
+          }
+        },
+        "slide_A3Lcxq": {
+          "type": "Slide",
+          "settings": {
+            "rich_text": "<p>“A few of the students were crying because they felt so happy because they were touched by the music and the message. <span style=\"text-decoration:underline\"><strong>This is exactly what our school needed at this time.<\/strong><\/span>”<\/p><p><strong>Denis C. - Principal<\/strong><\/p>"
+          }
+        },
+        "slide_Dh796R": {
+          "type": "Slide",
+          "settings": {
+            "rich_text": "<p>“A few of the students were crying because they felt so happy because they were touched by the music and the message. <span style=\"text-decoration:underline\"><strong>This is exactly what our school needed at this time.<\/strong><\/span>”<\/p><p><strong>Denis C. - Principal<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "slide_H79nAt",
+        "slide_wU8gdt",
+        "slide_ndXFK3",
+        "slide_bi4Ehx",
+        "slide_xxGmCT",
+        "slide_A3Lcxq",
+        "slide_Dh796R"
+      ],
       "settings": {
-        "h1": "Heading",
-        "p": "Paragraph text goes here",
-        "subtext": "Add your subtext here",
-        "button_text": "Button Text",
-        "button_link": ""
+        "h2": "Heading",
+        "h3": "Paragraph text goes here"
       }
     },
     "03b0c801-eea3-4f43-9678-741608f437c8": {
