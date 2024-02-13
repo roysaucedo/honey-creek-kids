@@ -1,0 +1,46 @@
+{{ 'image-text-hero.css' | asset_url | stylesheet_tag }}
+
+
+<div class="image-text-hero--ctr">
+  <div class="image-text-hero--image-div">
+    <h1>Better Kids MAKE a Better World</h1>
+    <p></p>
+    <a class="button button--primary" href=""></a>
+    <p></p>
+
+  </div>
+  <div class="image-text-hero--text-div">
+    
+  </div>
+  <img
+  src="{{ section.settings.image | image_url: height: 640 }}"
+  alt="{{ section.settings.image.alt | escape }}"
+  loading="lazy"
+  width="{{ section.settings.image.width }}"
+  height="{{ section.settings.image.height }}"
+  class="h-auto block"
+>
+
+</div>
+
+
+{% schema %}
+{
+  "name": "Image + Text Hero Section",
+  "tag": "section",
+  "class": "section",
+  "settings": [
+    {
+      "type": "inline_richtext",
+      "id": "heading",
+      "default": "Video",
+      "label": "t:sections.video.settings.heading.label"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Image + Text Hero Section"
+    }
+  ]
+}
+{% endschema %}

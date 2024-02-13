@@ -1,5 +1,11 @@
 {
   "sections": {
+    "image_text_hero_8T74VY": {
+      "type": "image-text-hero",
+      "settings": {
+        "heading": "Video"
+      }
+    },
     "03b0c801-eea3-4f43-9678-741608f437c8": {
       "type": "image-with-text",
       "blocks": {
@@ -33,12 +39,13 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Hero-Img-HoneyCreek_2.png",
-        "height": "adapt",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
+        "section_color_scheme": "",
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
@@ -171,7 +178,8 @@
           "type": "variant_picker",
           "disabled": true,
           "settings": {
-            "picker_type": "button"
+            "picker_type": "button",
+            "swatch_shape": "circle"
           }
         },
         "template--16327140638905__b30d67dc-8fa6-49e9-acc0-0fd0e773325e-quantity_selector-1": {
@@ -221,6 +229,7 @@
     }
   },
   "order": [
+    "image_text_hero_8T74VY",
     "03b0c801-eea3-4f43-9678-741608f437c8",
     "d4fb0858-5c6e-4cdd-ab89-c7cf03e83572",
     "featured_collection",

@@ -1,10 +1,10 @@
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/HCK_W-Lion_Logo_WhtTxt_71c98483-cd1a-46ab-b751-34dd47c53fe2.png",
+    "logo": "shopify:\/\/shop_images\/Group_22_1.svg",
     "logo_width": 240,
-    "type_header_font": "montserrat_n7",
+    "type_header_font": "futura_n7",
     "heading_scale": 100,
-    "type_body_font": "montserrat_n4",
+    "type_body_font": "avenir_next_n4",
     "body_scale": 100,
     "page_width": 1200,
     "spacing_sections": 0,
@@ -139,10 +139,10 @@
         "settings": {
           "background": "#ffffff",
           "background_gradient": "",
-          "text": "#194662",
-          "button": "#ffd810",
-          "button_label": "#0f1111",
-          "secondary_button_label": "#194662",
+          "text": "#172948",
+          "button": "#172948",
+          "button_label": "#fff",
+          "secondary_button_label": "#172948",
           "shadow": "#121212"
         }
       },
