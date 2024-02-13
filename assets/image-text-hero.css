@@ -1,0 +1,48 @@
+.image-text-hero--ctr {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.image-text-hero--ctr div {
+    width: 100%;
+}
+
+.image-text-hero--text-div {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+}
+
+.image-text-hero--text-div h1 {
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+}
+
+.image-text-hero--image {
+    width: 100%;
+    height: 500px;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+}
+
+.image-text-hero--absolute_image {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 120%);
+}
+
+@media only screen and (min-width: 768px) {
+    /* For desktop: */
+    .image-text-hero--ctr {
+        display: flex;
+        flex-direction: row-reverse;
+    }
+    .image-text-hero--ctr div {
+        width: 50%;
+    }
+  }

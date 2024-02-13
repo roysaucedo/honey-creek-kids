@@ -3,7 +3,13 @@
     "image_text_hero_8T74VY": {
       "type": "image-text-hero",
       "settings": {
-        "heading": "Video"
+        "h1": "BETTER KIDS MAKE A BETTER WORLD",
+        "p": "Lorem ipsum dolor sit amet consectetur. Pharetra hac duis elit in tincidunt diam euismod facilisis. Nunc nisl faucibus.",
+        "subtext": "Add your subtext here",
+        "button_text": "Button Text",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/Hero-Img-HoneyCreek_2.png",
+        "absolute_image": "shopify:\/\/shop_images\/image_5_5.png"
       }
     },
     "03b0c801-eea3-4f43-9678-741608f437c8": {
@@ -37,6 +43,7 @@
         "template--16327140638905__03b0c801-eea3-4f43-9678-741608f437c8-text-1",
         "template--16327140638905__03b0c801-eea3-4f43-9678-741608f437c8-button-1"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Hero-Img-HoneyCreek_2.png",
         "height": "small",

@@ -14,7 +14,7 @@
     "animations_hover_elements": "default",
     "buttons_border_thickness": 1,
     "buttons_border_opacity": 100,
-    "buttons_radius": 12,
+    "buttons_radius": 40,
     "buttons_shadow_opacity": 0,
     "buttons_shadow_horizontal_offset": 0,
     "buttons_shadow_vertical_offset": 4,
@@ -141,7 +141,7 @@
           "background_gradient": "",
           "text": "#172948",
           "button": "#172948",
-          "button_label": "#fff",
+          "button_label": "#ffffff",
           "secondary_button_label": "#172948",
           "shadow": "#121212"
         }
