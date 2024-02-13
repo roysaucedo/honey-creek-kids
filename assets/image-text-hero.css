@@ -1,7 +1,6 @@
 .image-text-hero--ctr {
     display: flex;
     flex-direction: column;
-    position: relative;
 }
 
 .image-text-hero--ctr div {
@@ -23,17 +22,22 @@
     margin-block-end: 0px;
 }
 
+.image-text-hero--image-div {
+    position: relative;
+}
+
 .image-text-hero--image {
     width: 100%;
-    height: 500px;
-    aspect-ratio: 1/1;
+    height: 100%;
     object-fit: cover;
 }
 
 .image-text-hero--absolute_image {
     position: absolute;
-    left: 50%;
-    transform: translate(-50%, 120%);
+    left: -10px;
+    bottom: -10px;
+    width: 120px;
+    height: auto;
 }
 
 @media only screen and (min-width: 768px) {
@@ -44,5 +48,14 @@
     }
     .image-text-hero--ctr div {
         width: 50%;
+    }
+    .image-text-hero--text-div {
+        padding: 80px;
+    }
+    .image-text-hero--absolute_image {
+        left: -60px;
+        bottom: -20px;
+        width: 180px;
+        
     }
   }

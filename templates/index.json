@@ -12,6 +12,16 @@
         "absolute_image": "shopify:\/\/shop_images\/image_5_5.png"
       }
     },
+    "section_reviews_slider_PDNUCL": {
+      "type": "section-reviews-slider",
+      "settings": {
+        "h1": "Heading",
+        "p": "Paragraph text goes here",
+        "subtext": "Add your subtext here",
+        "button_text": "Button Text",
+        "button_link": ""
+      }
+    },
     "03b0c801-eea3-4f43-9678-741608f437c8": {
       "type": "image-with-text",
       "blocks": {
@@ -59,188 +69,11 @@
         "padding_top": 72,
         "padding_bottom": 72
       }
-    },
-    "d4fb0858-5c6e-4cdd-ab89-c7cf03e83572": {
-      "type": "collection-list",
-      "blocks": {
-        "template--16327140638905__d4fb0858-5c6e-4cdd-ab89-c7cf03e83572-featured_collection-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "abcs-of-character-learning-program"
-          }
-        },
-        "template--16327140638905__d4fb0858-5c6e-4cdd-ab89-c7cf03e83572-featured_collection-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "character-classics"
-          }
-        },
-        "template--16327140638905__d4fb0858-5c6e-4cdd-ab89-c7cf03e83572-featured_collection-3": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "a-handbook-for-life"
-          }
-        }
-      },
-      "block_order": [
-        "template--16327140638905__d4fb0858-5c6e-4cdd-ab89-c7cf03e83572-featured_collection-2",
-        "template--16327140638905__d4fb0858-5c6e-4cdd-ab89-c7cf03e83572-featured_collection-1",
-        "template--16327140638905__d4fb0858-5c6e-4cdd-ab89-c7cf03e83572-featured_collection-3"
-      ],
-      "custom_css": [
-        "* {text-align: center;}"
-      ],
-      "settings": {
-        "title": "Shop Our Award Winning Collections",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 60,
-        "padding_bottom": 60
-      }
-    },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Character Classics",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": true,
-        "description_style": "body",
-        "collection": "character-classics",
-        "products_to_show": 6,
-        "columns_desktop": 3,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 60,
-        "padding_bottom": 60
-      }
-    },
-    "9d1a187a-6153-46b1-8a66-da4f5d114678": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "ABCs of Character",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": true,
-        "description_style": "body",
-        "collection": "abcs-of-character-learning-program",
-        "products_to_show": 3,
-        "columns_desktop": 3,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 60,
-        "padding_bottom": 64
-      }
-    },
-    "b30d67dc-8fa6-49e9-acc0-0fd0e773325e": {
-      "type": "featured-product",
-      "blocks": {
-        "template--16327140638905__b30d67dc-8fa6-49e9-acc0-0fd0e773325e-text-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "template--16327140638905__b30d67dc-8fa6-49e9-acc0-0fd0e773325e-title-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "template--16327140638905__b30d67dc-8fa6-49e9-acc0-0fd0e773325e-price-1": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "template--16327140638905__b30d67dc-8fa6-49e9-acc0-0fd0e773325e-variant_picker-1": {
-          "type": "variant_picker",
-          "disabled": true,
-          "settings": {
-            "picker_type": "button",
-            "swatch_shape": "circle"
-          }
-        },
-        "template--16327140638905__b30d67dc-8fa6-49e9-acc0-0fd0e773325e-quantity_selector-1": {
-          "type": "quantity_selector",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "template--16327140638905__b30d67dc-8fa6-49e9-acc0-0fd0e773325e-buy_buttons-1": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": true
-          }
-        },
-        "template--16327140638905__b30d67dc-8fa6-49e9-acc0-0fd0e773325e-share-1": {
-          "type": "share",
-          "disabled": true,
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "template--16327140638905__b30d67dc-8fa6-49e9-acc0-0fd0e773325e-text-1",
-        "template--16327140638905__b30d67dc-8fa6-49e9-acc0-0fd0e773325e-title-1",
-        "template--16327140638905__b30d67dc-8fa6-49e9-acc0-0fd0e773325e-price-1",
-        "template--16327140638905__b30d67dc-8fa6-49e9-acc0-0fd0e773325e-variant_picker-1",
-        "template--16327140638905__b30d67dc-8fa6-49e9-acc0-0fd0e773325e-quantity_selector-1",
-        "template--16327140638905__b30d67dc-8fa6-49e9-acc0-0fd0e773325e-buy_buttons-1",
-        "template--16327140638905__b30d67dc-8fa6-49e9-acc0-0fd0e773325e-share-1"
-      ],
-      "settings": {
-        "product": "a-handbook-for-life-cd",
-        "color_scheme": "",
-        "secondary_background": true,
-        "media_size": "small",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 60,
-        "padding_bottom": 60
-      }
     }
   },
   "order": [
     "image_text_hero_8T74VY",
-    "03b0c801-eea3-4f43-9678-741608f437c8",
-    "d4fb0858-5c6e-4cdd-ab89-c7cf03e83572",
-    "featured_collection",
-    "9d1a187a-6153-46b1-8a66-da4f5d114678",
-    "b30d67dc-8fa6-49e9-acc0-0fd0e773325e"
+    "section_reviews_slider_PDNUCL",
+    "03b0c801-eea3-4f43-9678-741608f437c8"
   ]
 }
