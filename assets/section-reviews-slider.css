@@ -3,6 +3,11 @@
     text-align: center;
 }
 
+.review-slider--ctr h2 {
+    font-size: calc(var(--font-heading-scale) * 3rem);
+  }
+
+
 .swiper {
     width: 100%;
     height: auto;
