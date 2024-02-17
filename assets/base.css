@@ -3522,3 +3522,11 @@ details-disclosure > details {
 .text-center {
   text-align: center;
 }
+
+.show-div {
+  display: block;
+}
+
+.hide-div {
+  display: none;
+}

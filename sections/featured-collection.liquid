@@ -48,7 +48,7 @@
   endif
 -%}
 
-<div class="color-{{ section.settings.color_scheme }} isolate gradient">
+<div id="{{ section.settings.custom_id }}" class="color-{{ section.settings.color_scheme }} isolate gradient">
   <div class="collection section-{{ section.id }}-padding{% if section.settings.full_width %} collection--full-width{% endif %}">
     <div class="collection__title title-wrapper title-wrapper--no-top-margin page-width{% if show_mobile_slider %} title-wrapper--self-padded-tablet-down{% endif %}{% if show_desktop_slider %} collection__title--desktop-slider{% endif %}">
       {%- if section.settings.title != blank -%}
@@ -180,6 +180,12 @@
   },
   "settings": [
     {
+      "type": "text",
+      "id": "custom_id",
+      "default": "custom-id",
+      "label": "Custom ID"
+    },
+    {
       "type": "inline_richtext",
       "id": "title",
       "default": "Featured collection",
@@ -245,7 +251,7 @@
       "type": "range",
       "id": "products_to_show",
       "min": 2,
-      "max": 25,
+      "max": 30,
       "step": 1,
       "default": 4,
       "label": "t:sections.featured-collection.settings.products_to_show.label"

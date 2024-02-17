@@ -1,0 +1,61 @@
+.collection-header--icon-div {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px 0px;
+}
+
+.collection-header--icon {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.collection-header--icon img {
+    width: 100px;
+    height: auto;
+    padding-bottom: 10px;
+}
+
+.collection-header--icon-title {
+    border-radius: 100px;
+    padding: 8px 15px;
+    /* background-color: rgb(var(--color-foreground)); */
+    border: 1px solid rgb(var(--color-foreground));
+    /* color: white; */
+    cursor: pointer;
+}
+
+.collection-header--icon-title:hover {
+    border-radius: 100px;
+    padding: 8px 15px;
+    background-color: rgb(var(--color-foreground));
+    border: 1px solid rgb(var(--color-foreground));
+    color: white;
+    cursor: pointer;
+}
+
+
+
+.collection-header--icon-title-selected {
+    border-radius: 100px;
+    padding: 8px 15px;
+    background-color: rgb(var(--color-foreground));
+    border: 1px solid rgb(var(--color-foreground));
+    color: white;
+    cursor: pointer;
+}
+
+.collection-header--icon-title-selected p {
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+}
+
+.collection-header--icon-title p {
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+}
+
