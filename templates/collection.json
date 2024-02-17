@@ -1,5 +1,47 @@
 {
   "sections": {
+    "rich_text_khfrNW": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_eK6Lnx": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "text_pXae38": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "button_wDeUbR": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_eK6Lnx",
+        "text_pXae38",
+        "button_wDeUbR"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "settings": {
@@ -12,15 +54,16 @@
       "type": "main-collection-product-grid",
       "settings": {
         "products_per_page": 16,
-        "columns_desktop": 3,
+        "columns_desktop": 4,
+        "color_scheme": "",
         "image_ratio": "square",
         "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
-        "enable_quick_add": false,
+        "enable_quick_add": true,
         "enable_filtering": true,
-        "filter_type": "vertical",
+        "filter_type": "horizontal",
         "enable_sorting": true,
         "columns_mobile": "2",
         "padding_top": 36,
@@ -29,6 +72,7 @@
     }
   },
   "order": [
+    "rich_text_khfrNW",
     "banner",
     "product-grid"
   ]

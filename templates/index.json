@@ -5,8 +5,8 @@
       "settings": {
         "h1": "BETTER KIDS MAKE A BETTER WORLD",
         "p": "Lorem ipsum dolor sit amet consectetur. Pharetra hac duis elit in tincidunt diam euismod facilisis. Nunc nisl faucibus.",
-        "subtext": "Add your subtext here",
-        "button_text": "Button Text",
+        "subtext": "Over 1,000,000+ copies sold",
+        "button_text": "EXPLORE OUR LIBRARY",
         "button_link": "",
         "image": "shopify:\/\/shop_images\/Hero-Img-HoneyCreek_2.png",
         "absolute_image": "shopify:\/\/shop_images\/image_5_5.png"
@@ -72,58 +72,405 @@
         "h3": ""
       }
     },
-    "03b0c801-eea3-4f43-9678-741608f437c8": {
-      "type": "image-with-text",
+    "rich_text_TprPeD": {
+      "type": "rich-text",
       "blocks": {
-        "template--16327140638905__03b0c801-eea3-4f43-9678-741608f437c8-heading-1": {
+        "heading_63YnPe": {
           "type": "heading",
           "settings": {
-            "heading": "Better Kids for a Better World",
-            "heading_size": "h0"
+            "heading": "Value",
+            "heading_size": "h1"
           }
         },
-        "template--16327140638905__03b0c801-eea3-4f43-9678-741608f437c8-text-1": {
+        "text_V99Nfy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Pharetra hac duis elit in tincidunt diam euismod facilisis. Nunc nisl faucibus.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_63YnPe",
+        "text_V99Nfy"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 44
+      }
+    },
+    "image_banner_CXx4Ye": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Values.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_prqyVM": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Ppd6Ed": {
+          "type": "heading",
+          "settings": {
+            "heading": "Featured Product",
+            "heading_size": "h1"
+          }
+        },
+        "text_hJrfCm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Pharetra hac duis elit in tincidunt diam euismod facilisis. Nunc nisl faucibus.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Ppd6Ed",
+        "text_hJrfCm"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "multirow_8VraJM": {
+      "type": "multirow",
+      "blocks": {
+        "row_tyebK3": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/young-boy-smiles-at-father-holding-baby-sister.jpg",
+            "caption": "",
+            "heading": "Row",
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Pharetra hac duis elit in tincidunt diam euismod facilisis. Nunc nisl faucibus.<\/p>",
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        },
+        "row_WrwBwq": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/two-sisters-reading-together.jpg",
+            "caption": "",
+            "heading": "Row",
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Pharetra hac duis elit in tincidunt diam euismod facilisis. Nunc nisl faucibus.<\/p>",
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "row_tyebK3",
+        "row_WrwBwq"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_4KFGRi": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Featured Products",
+        "heading_size": "h1",
+        "description": "<p>Lorem ipsum dolor sit amet consectetur. Pharetra hac duis elit in tincidunt diam euismod facilisis. Nunc nisl faucibus.<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all-products",
+        "products_to_show": 6,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_JrXmPD": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_c9nDV8": {
+          "type": "heading",
+          "settings": {
+            "heading": "Timeless Stories",
+            "heading_size": "h1"
+          }
+        },
+        "text_VDg9jL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Pharetra hac duis elit in tincidunt diam euismod facilisis. Nunc nisl faucibus.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_c9nDV8",
+        "text_VDg9jL"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_gx9Wmz": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_3XK9pn": {
+          "type": "heading",
+          "settings": {
+            "heading": "Timeless Values",
+            "heading_size": "h1"
+          }
+        },
+        "text_39mHtA": {
           "type": "text",
           "settings": {
             "text": "<p>Lorem ipsum dolor sit amet consectetur. Pharetra hac duis elit in tincidunt diam euismod facilisis. Nunc nisl faucibus.<\/p>",
             "text_style": "body"
           }
-        },
-        "template--16327140638905__03b0c801-eea3-4f43-9678-741608f437c8-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Explore Our Library →",
-            "button_link": "shopify:\/\/collections\/all",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
-        "template--16327140638905__03b0c801-eea3-4f43-9678-741608f437c8-heading-1",
-        "template--16327140638905__03b0c801-eea3-4f43-9678-741608f437c8-text-1",
-        "template--16327140638905__03b0c801-eea3-4f43-9678-741608f437c8-button-1"
+        "heading_3XK9pn",
+        "text_39mHtA"
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/Hero-Img-HoneyCreek_2.png",
-        "height": "small",
+        "image": "shopify:\/\/shop_images\/two-sisters-reading-together.jpg",
+        "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "text_first",
+        "layout": "image_first",
         "desktop_content_position": "top",
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "section_color_scheme": "",
         "color_scheme": "",
         "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "padding_top": 72,
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collage_mahdEU": {
+      "type": "collage",
+      "blocks": {
+        "image_Efakma": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/young-boy-smiles-at-father-holding-baby-sister.jpg"
+          }
+        },
+        "image_ptbx84": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gabriel-tovar-Y9RFMB7Gb94-unsplash_1_1.jpg"
+          }
+        },
+        "image_y9g3AR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/jonathan-borba-Z1Oyw2snqn8-unsplash_1.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_Efakma",
+        "image_ptbx84",
+        "image_y9g3AR"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_product_k4mcNV": {
+      "type": "featured-product",
+      "blocks": {
+        "title_cL9WGj": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_mcXBjt": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_8fkcdU": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_YGgCmi": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_nj9gPi": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        }
+      },
+      "block_order": [
+        "title_cL9WGj",
+        "price_mcXBjt",
+        "variant_picker_8fkcdU",
+        "quantity_selector_YGgCmi",
+        "buy_buttons_nj9gPi"
+      ],
+      "disabled": true,
+      "settings": {
+        "product": "abcs-of-character-book",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_AE8fd3": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Life-Changing Music & Books",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all-products",
+        "products_to_show": 12,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
         "padding_bottom": 72
+      }
+    },
+    "image_banner_e6xCXx": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_eGTy4c": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "buttons_UWtT4j": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop Now",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_eGTy4c",
+        "buttons_UWtT4j"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/jonathan-borba-Z1Oyw2snqn8-unsplash_1.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     }
   },
   "order": [
     "image_text_hero_8T74VY",
     "section_reviews_slider_PDNUCL",
-    "03b0c801-eea3-4f43-9678-741608f437c8"
+    "rich_text_TprPeD",
+    "image_banner_CXx4Ye",
+    "rich_text_prqyVM",
+    "multirow_8VraJM",
+    "featured_collection_4KFGRi",
+    "rich_text_JrXmPD",
+    "image_with_text_gx9Wmz",
+    "collage_mahdEU",
+    "featured_product_k4mcNV",
+    "featured_collection_AE8fd3",
+    "image_banner_e6xCXx"
   ]
 }
