@@ -37,21 +37,30 @@
           "type": "Collection",
           "settings": {
             "image": "shopify:\/\/shop_images\/image_5_5.png",
-            "collection_title": "Character Classics"
+            "collection_title": "Character Classics",
+            "collection_image": "shopify:\/\/shop_images\/gabriel-tovar-Y9RFMB7Gb94-unsplash_1_1.jpg",
+            "collection_description": "<h2>Character Classics<\/h2><p>Choose from a variety of character building topics for your child<\/p>",
+            "music_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0609\/4569\/4905\/files\/Twinkly.mp3?v=1708220852"
           }
         },
         "collection_fzNMp9": {
           "type": "Collection",
           "settings": {
             "image": "shopify:\/\/shop_images\/image_5_5.png",
-            "collection_title": "ABC's of Character"
+            "collection_title": "ABC's of Character",
+            "collection_image": "shopify:\/\/shop_images\/jonathan-borba-Z1Oyw2snqn8-unsplash_1.jpg",
+            "collection_description": "<h2>ABC's of Character<\/h2><p>Choose from a variety of character building topics for your child<\/p>",
+            "music_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0609\/4569\/4905\/files\/Twinkly.mp3?v=1708220852"
           }
         },
         "collection_C9gEbM": {
           "type": "Collection",
           "settings": {
             "image": "shopify:\/\/shop_images\/image_5_5.png",
-            "collection_title": "A Handbook for Life"
+            "collection_title": "A Handbook for Life",
+            "collection_image": "shopify:\/\/shop_images\/young-boy-smiles-at-father-holding-baby-sister.jpg",
+            "collection_description": "<h2>A Handbook for Life<\/h2><p>Choose from a variety of character building topics for your child<\/p>",
+            "music_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0609\/4569\/4905\/files\/Twinkly.mp3?v=1708220852"
           }
         }
       },
