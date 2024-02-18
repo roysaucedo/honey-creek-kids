@@ -4,14 +4,17 @@ const collectionBtn2 = document.getElementById("2")
 const collectionBtn3 = document.getElementById("3")
 
 
+const collectionContent1 = document.getElementById("1-content")
+const collectionContent2 = document.getElementById("2-content")
+const collectionContent3 = document.getElementById("3-content")
+
+console.log(collectionContent1)
+
+
 const characterFeaturedCollection = document.getElementById("character")
 const abcFeaturedCollection = document.getElementById("abc")
 const handbookFeaturedCollection = document.getElementById("handbook")
 
-
-console.log(characterFeaturedCollection)
-console.log(abcFeaturedCollection)
-console.log(handbookFeaturedCollection)
 
 
 function clickShopAllBtn (){
@@ -19,6 +22,10 @@ function clickShopAllBtn (){
     collectionBtn1.classList.remove("collection-header--icon-title-selected");
     collectionBtn2.classList.remove("collection-header--icon-title-selected");
     collectionBtn3.classList.remove("collection-header--icon-title-selected");
+
+    collectionContent1.classList.add("hide-div");
+    collectionContent2.classList.add("hide-div");
+    collectionContent3.classList.add("hide-div");
     
 
     characterFeaturedCollection.classList.remove("hide-div");
@@ -33,6 +40,10 @@ function clickCollectionBtn1 (){
     shopAllBtn.classList.remove("collection-header--icon-title-selected");
     shopAllBtn.classList.add("collection-header--icon-title");
 
+    collectionContent1.classList.remove("hide-div");
+    collectionContent2.classList.add("hide-div");
+    collectionContent3.classList.add("hide-div");
+
     characterFeaturedCollection.classList.remove("hide-div");
     abcFeaturedCollection.classList.add("hide-div");
     handbookFeaturedCollection.classList.add("hide-div");
@@ -45,6 +56,10 @@ function clickCollectionBtn2 (){
     shopAllBtn.classList.remove("collection-header--icon-title-selected");
     shopAllBtn.classList.add("collection-header--icon-title");
 
+    collectionContent2.classList.remove("hide-div");
+    collectionContent1.classList.add("hide-div");
+    collectionContent3.classList.add("hide-div");
+
     characterFeaturedCollection.classList.add("hide-div");
     handbookFeaturedCollection.classList.add("hide-div");
     abcFeaturedCollection.classList.remove("hide-div");
@@ -56,6 +71,10 @@ function clickCollectionBtn3 (){
     collectionBtn2.classList.remove("collection-header--icon-title-selected");
     shopAllBtn.classList.remove("collection-header--icon-title-selected");
     shopAllBtn.classList.add("collection-header--icon-title");
+
+    collectionContent3.classList.remove("hide-div");
+    collectionContent2.classList.add("hide-div");
+    collectionContent1.classList.add("hide-div");
 
     characterFeaturedCollection.classList.add("hide-div");
     abcFeaturedCollection.classList.add("hide-div");

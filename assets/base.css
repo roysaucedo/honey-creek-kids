@@ -3528,5 +3528,5 @@ details-disclosure > details {
 }
 
 .hide-div {
-  display: none;
+  display: none !important;
 }

@@ -59,3 +59,51 @@
     margin-block-end: 0em;
 }
 
+
+.collection-header--collection-content-div {
+    /* padding: 40px 20px;
+    margin-bottom: 20px; */
+}
+
+.collection-header--collection-content {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 0px;
+    background-color: #fafafa;
+    border-radius: 20px;
+
+}
+
+.collection-header--collection-content img {
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+    aspect-ratio: 4/3;
+    object-fit: cover;
+}
+
+.collection-header--collection-content-text-audio {
+    padding: 20px;
+    width: 100%;
+}
+
+.collection-header--collection-content-text-audio audio {
+    width: 100%;
+    
+}
+
+@media only screen and (min-width: 768px) {
+    /* For desktop: */
+
+    .collection-header--collection-content img {
+        width: 45%;
+    }
+    
+    .collection-header--collection-content-text-audio {
+        width: 50%;
+    }
+
+  }
