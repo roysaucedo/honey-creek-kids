@@ -7,7 +7,7 @@
         "p": "Lorem ipsum dolor sit amet consectetur. Pharetra hac duis elit in tincidunt diam euismod facilisis. Nunc nisl faucibus.",
         "subtext": "Over 1,000,000+ copies sold",
         "button_text": "EXPLORE OUR LIBRARY",
-        "button_link": "",
+        "button_link": "shopify:\/\/collections\/all",
         "image": "shopify:\/\/shop_images\/Hero-Img-HoneyCreek_2.png",
         "absolute_image": "shopify:\/\/shop_images\/image_5_5.png"
       }
@@ -68,7 +68,7 @@
         "slide_Dh796R"
       ],
       "settings": {
-        "h2": "HEAR FROM HAPPY CUSTOMERS",
+        "h2": "Hear From Happy Customers",
         "h3": ""
       }
     },
@@ -103,20 +103,42 @@
         "padding_bottom": 44
       }
     },
-    "image_banner_CXx4Ye": {
-      "type": "image-banner",
+    "image_with_text_3bKwHT": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_rdKzGM": {
+          "type": "heading",
+          "settings": {
+            "heading": "Gold Label Values",
+            "heading_size": "h1"
+          }
+        },
+        "text_neh7DU": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At Honey Creek, we offer a collection of products and resources that embody timeless values. <\/p><p>Our content is not just inspirational, meaningful, and endearing but is also seamlessly integrated into daily life, making it easy to listen to, watch, or read.<\/p><p> Rooted in the philosophy of 'Sing It and You'll Never Forget It,' our products are designed to be enjoyed repeatedly by children, youth, and adults alike.<\/p><p>Our offerings go beyond mere entertainment; they serve as a powerful tool to reinforce essential behavioral traits and skills. <\/p><p>By providing positive alternatives to negative behavior, we contribute to personal growth and development. With a focus on teaching basic living skills, our products carry positive core values that align with the principles of successful living.<\/p><p>What sets us apart is the simplicity and accessibility of our products. With little to no preparation required, they are easy to use and easily orchestrate into various aspects of life. Moreover, our content encourages observation and awareness traits, fostering a mindset that engages users to serve others, mentor, and undergo positive character transformation.<\/p><p>We are dedicated to creating an enriching experience that not only entertains but also educates and inspires individuals of all ages. Join us on a journey of personal growth, positive change, and a celebration of timeless values.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rdKzGM",
+        "text_neh7DU"
+      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Values.png",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
+        "image": "shopify:\/\/shop_images\/relaxing-with-book.jpg",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "inverse",
+        "color_scheme": "background-1",
         "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "rich_text_prqyVM": {
@@ -125,7 +147,7 @@
         "heading_Ppd6Ed": {
           "type": "heading",
           "settings": {
-            "heading": "Featured Product",
+            "heading": "FEATURED PRODUCT",
             "heading_size": "h1"
           }
         },
@@ -140,13 +162,118 @@
         "heading_Ppd6Ed",
         "text_hJrfCm"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 100,
         "padding_bottom": 0
+      }
+    },
+    "featured_product_7hG7Az": {
+      "type": "featured-product",
+      "blocks": {
+        "text_kFcpe6": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_3Wkyrf": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_PPh97d": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_iXWDJr": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_yk9j9b": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_TEwFyy": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_TWDCnQ": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_kFcpe6",
+        "title_3Wkyrf",
+        "price_PPh97d",
+        "variant_picker_iXWDJr",
+        "quantity_selector_yk9j9b",
+        "buy_buttons_TEwFyy",
+        "share_TWDCnQ"
+      ],
+      "disabled": true,
+      "settings": {
+        "product": "abcs-of-character-book",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "right",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_6P3cLp": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "custom_id": "custom-id",
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all-products",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
       }
     },
     "multirow_8VraJM": {
@@ -179,6 +306,7 @@
         "row_tyebK3",
         "row_WrwBwq"
       ],
+      "disabled": true,
       "settings": {
         "image_height": "medium",
         "desktop_image_width": "medium",
@@ -199,6 +327,7 @@
       "type": "featured-collection",
       "disabled": true,
       "settings": {
+        "custom_id": "custom-id",
         "title": "Featured Products",
         "heading_size": "h1",
         "description": "<p>Lorem ipsum dolor sit amet consectetur. Pharetra hac duis elit in tincidunt diam euismod facilisis. Nunc nisl faucibus.<\/p>",
@@ -328,7 +457,7 @@
         "card_styles": "product-card-wrapper",
         "color_scheme": "",
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 100
       }
     },
     "featured_product_k4mcNV": {
@@ -392,6 +521,7 @@
       "type": "featured-collection",
       "disabled": true,
       "settings": {
+        "custom_id": "custom-id",
         "title": "Life-Changing Music & Books",
         "heading_size": "h1",
         "description": "",
@@ -423,7 +553,7 @@
         "heading_eGTy4c": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Explore Our Library",
             "heading_size": "h1"
           }
         },
@@ -446,7 +576,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/jonathan-borba-Z1Oyw2snqn8-unsplash_1.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -462,8 +592,10 @@
     "image_text_hero_8T74VY",
     "section_reviews_slider_PDNUCL",
     "rich_text_TprPeD",
-    "image_banner_CXx4Ye",
+    "image_with_text_3bKwHT",
     "rich_text_prqyVM",
+    "featured_product_7hG7Az",
+    "featured_collection_6P3cLp",
     "multirow_8VraJM",
     "featured_collection_4KFGRi",
     "rich_text_JrXmPD",

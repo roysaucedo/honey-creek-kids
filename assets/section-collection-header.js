@@ -89,3 +89,26 @@ collectionBtn1.addEventListener("click", clickCollectionBtn1);
 collectionBtn2.addEventListener("click", clickCollectionBtn2);
 collectionBtn3.addEventListener("click", clickCollectionBtn3);
 
+document.addEventListener('DOMContentLoaded', function() {
+  // Get all audio elements within the section
+  var audioElements = document.querySelectorAll('.collection-header--collection-content-text-audio audio');
+
+  // Function to pause all other audio elements and reset them to the beginning
+  function pauseAndResetOtherAudios(clickedAudio) {
+    audioElements.forEach(function(audio) {
+      if (audio !== clickedAudio && !audio.paused) {
+        audio.pause();
+        audio.currentTime = 0; // Reset to the beginning
+      }
+    });
+  }
+
+  // Add click event listener to each audio element
+  audioElements.forEach(function(audio) {
+    audio.addEventListener('play', function() {
+      pauseAndResetOtherAudios(audio);
+    });
+  });
+});
+
+

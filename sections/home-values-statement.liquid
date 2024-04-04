@@ -13,7 +13,7 @@
     <img
     src="{{ section.settings.image | image_url: height: 1500 }}"
     alt="{{ section.settings.image.alt | escape }}"
-    loading="eager"
+    loading="lazy"
     width="{{ section.settings.image.width }}"
     height="{{ section.settings.image.height }}"
     class="image-text-hero--image"
@@ -21,7 +21,7 @@
   <img
   src="{{ section.settings.absolute_image | image_url: height: 1000 }}"
   alt="{{ section.settings.absolute_image.alt | escape }}"
-  loading="eager"
+  loading="lazy"
   width="{{ section.settings.absolute_image.width }}"
   height="{{ section.settings.absolute_image.height }}"
   class="image-text-hero--absolute_image"
@@ -41,7 +41,7 @@
 
 {% schema %}
 {
-  "name": "Image + Text Hero Section",
+  "name": "Values Statement",
   "tag": "section",
   "class": "section",
   "settings": [
@@ -87,7 +87,7 @@
   ],
   "presets": [
     {
-      "name": "Image + Text Hero Section"
+      "name": "Values Statement"
     }
   ]
 }

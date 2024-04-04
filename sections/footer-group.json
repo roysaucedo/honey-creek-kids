@@ -8,7 +8,7 @@
         "heading_RA8kFz": {
           "type": "heading",
           "settings": {
-            "heading": "Subscribe to our emails",
+            "heading": "SUBSCRIBE TO OUR EMAILS",
             "heading_size": "h2"
           }
         },
@@ -42,7 +42,7 @@
         "image_Y94dqw": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Group_22_1.svg",
+            "image": "shopify:\/\/shop_images\/HCK_W-Lion_Logo_WhtTxt.png",
             "image_width": 190,
             "alignment": ""
           }
@@ -63,7 +63,7 @@
         "* {text-transform: uppercase; font-weight: 600;}"
       ],
       "settings": {
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "newsletter_enable": false,
         "newsletter_heading": "Subscribe to our emails",
         "enable_follow_on_shop": true,
