@@ -42,6 +42,13 @@
             </div>
         {% for block in section.blocks %}
             <div class="collection-header--icon">
+
+              {% if block.settings.show_tag == true %}
+              <div class="collection-icon-tag">
+                <span>{{ block.settings.tag }}</span>
+              </div>
+              {% endif %}
+              
                 {% if block.settings.image != blank %}
                 <img
                 src="{{ block.settings.image | image_url: height: 1500 }}"
@@ -174,6 +181,18 @@
           "id": "music_link",
           "label": "Music Link",
           "default": "Music Link"
+        },
+        {
+          "type": "checkbox",
+          "id": "show_tag",
+          "label": "Show tag",
+          "default": false
+        },
+        {
+          "type": "text",
+          "id": "tag",
+          "label": "Tag",
+          "default": "Block Tag"
         }
         ]
         }
