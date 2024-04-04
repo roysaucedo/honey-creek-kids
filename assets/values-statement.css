@@ -29,3 +29,7 @@
 .values-statement-card a {
     margin-top: 20px;
 }
+
+.values-statement-card h2 {
+    text-align: center;
+}
