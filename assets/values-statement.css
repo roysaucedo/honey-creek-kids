@@ -1,0 +1,31 @@
+.values-statement-ctr {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.values-statement-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px 20px;
+    border-radius: 10px;
+    border: solid 10px #D8A74A;
+    width: 100%;
+    max-width: 800px;
+    /* background: url("https://cdn.shopify.com/s/files/1/0609/4569/4905/files/Frame_21_6.png?v=1709011064");
+    background-position: top;
+    background-size: contain;
+    background-repeat: no-repeat; */
+    background: rgb(217,164,67);
+    background: linear-gradient(90deg, rgba(217,164,67,1) 0%, rgba(244,225,128,1) 47%, rgba(217,164,67,1) 100%);
+
+}
+
+.values-statement-card a {
+    margin-top: 20px;
+}
