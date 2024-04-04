@@ -103,6 +103,17 @@
         "padding_bottom": 44
       }
     },
+    "home_values_statement_X3drFX": {
+      "type": "home-values-statement",
+      "settings": {
+        "h1": "Gold Label Values",
+        "p": "<p>At Honey Creek, we offer a collection of products and resources that embody timeless values. <\/p><p>Our content is not just inspirational, meaningful, and endearing but is also seamlessly integrated into daily life, making it easy to listen to, watch, or read.<\/p><p> Rooted in the philosophy of 'Sing It and You'll Never Forget It,' our products are designed to be enjoyed repeatedly by children, youth, and adults alike.<\/p><p>Our offerings go beyond mere entertainment; they serve as a powerful tool to reinforce essential behavioral traits and skills. <\/p><p>By providing positive alternatives to negative behavior, we contribute to personal growth and development. With a focus on teaching basic living skills, our products carry positive core values that align with the principles of successful living.<\/p><p>What sets us apart is the simplicity and accessibility of our products. With little to no preparation required, they are easy to use and easily orchestrate into various aspects of life. Moreover, our content encourages observation and awareness traits, fostering a mindset that engages users to serve others, mentor, and undergo positive character transformation.<\/p><p>We are dedicated to creating an enriching experience that not only entertains but also educates and inspires individuals of all ages. Join us on a journey of personal growth, positive change, and a celebration of timeless values.<\/p>",
+        "btn_text": "Learn More",
+        "link": "shopify:\/\/pages\/honey-creek-kids-values",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_3bKwHT": {
       "type": "image-with-text",
       "blocks": {
@@ -125,6 +136,7 @@
         "heading_rdKzGM",
         "text_neh7DU"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/relaxing-with-book.jpg",
         "height": "large",
@@ -592,6 +604,7 @@
     "image_text_hero_8T74VY",
     "section_reviews_slider_PDNUCL",
     "rich_text_TprPeD",
+    "home_values_statement_X3drFX",
     "image_with_text_3bKwHT",
     "rich_text_prqyVM",
     "featured_product_7hG7Az",
