@@ -20,6 +20,9 @@
 
 <div class="values-statement-ctr section-{{ section.id }}-padding">
     <div class="values-statement-card">
+        <img class="absolute-certificate-character-img" src="{{ section.settings.character_img | image_url: height: 800 }}" width="200" height="auto" loading="lazy" alt="Lion">
+        <img class="absolute-certificate-image-top-left" src="{{ section.settings.img_top_left | image_url: height: 800 }}" width="100%" height="auto" loading="lazy" alt="certificate decoration">
+        <img class="absolute-certificate-image-bottom-right" src="{{ section.settings.img_bottom_right | image_url: height: 800 }}" width="100%" height="auto" loading="lazy" alt="certificate decoration">
         <h2 class="rich-text__heading rte inline-richtext h1 scroll-trigger animate--slide-in">{{ section.settings.h1 }}</h2>
         <span class="rich-text__text rte scroll-trigger animate--slide-in">{{ section.settings.p }}</span>
         {% if section.settings.link != blank %}
@@ -57,6 +60,21 @@
       "type": "url",
       "id": "link",
       "label": "Button Link"
+    },
+    {
+      "type": "image_picker",
+      "id": "img_top_left",
+      "label": "Top left image"
+    },
+    {
+      "type": "image_picker",
+      "id": "img_bottom_right",
+      "label": "Bottom right image"
+    },
+    {
+      "type": "image_picker",
+      "id": "character_img",
+      "label": "Character Image"
     },
     {
       "type": "range",
