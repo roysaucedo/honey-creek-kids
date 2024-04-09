@@ -90,6 +90,7 @@
             <source src="{{ block.settings.music_link }}" type="audio/mpeg">
             Your browser does not support the audio element.
           </audio>
+          <a class="button button--primary" href="{{ section.settings.button_link }}">{{ section.settings.button_text }}</a>
         </div>
 
       </div>
@@ -181,6 +182,17 @@
           "id": "music_link",
           "label": "Music Link",
           "default": "Music Link"
+        },
+        {
+          "type": "text",
+          "id": "button_text",
+          "default": "Button Text",
+          "label": "Button Text"
+        },
+        {
+          "type": "url",
+          "id": "button_link",
+          "label": "Button Link"
         },
         {
           "type": "checkbox",
