@@ -87,6 +87,7 @@
     },
     "video_7jwNLx": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "Video",
         "heading_size": "h1",
@@ -105,14 +106,14 @@
         "heading_r3CFg4": {
           "type": "heading",
           "settings": {
-            "heading": "Character Classics Collection",
+            "heading": "{{ product.metafields.custom.collection_title.value }}",
             "heading_size": "h1"
           }
         },
         "text_HgYFyf": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet consectetur. Pharetra hac duis elit in tincidunt diam euismod facilisis. Nunc nisl faucibus.<\/p>",
+            "text": "<p>{{ product.metafields.custom.short_collection_description | metafield_tag }}<\/p>",
             "text_style": "body"
           }
         }
