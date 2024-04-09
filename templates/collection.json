@@ -37,10 +37,12 @@
           "type": "Collection",
           "settings": {
             "image": "shopify:\/\/shop_images\/image_5_5.png",
-            "collection_title": "Character Classics",
+            "collection_title": "The Character Classics Program",
             "collection_image": "shopify:\/\/shop_images\/gabriel-tovar-Y9RFMB7Gb94-unsplash_1_1.jpg",
-            "collection_description": "<h2>Character Classics<\/h2><p>Character Classics is a unique blend of memorable melodies and delightful, kid-friendly lyrics that help children discover the best of two worlds: Classical Music and Positive Values. Kids will enjoy unforgettable melodies — from Mozart, Haydn, Strauss, and other great composers — while they sing about valuable character traits.<\/p>",
+            "collection_description": "<h2>The Character Classics Program<\/h2><p>With the Character Classics Monthly Program you will have the tools and ability to influence and guide your kids through one positive character trait every month. By building and reinforcing one character trait every day for a month, children will experience continuous and progressive character development that will help bring success at home, at school, and throughout their lives. Parents, teachers, and anyone working with children see the power of this program in just a few weeks. You will receive one learning module each month from the Character Classics series.<\/p><p>Recommended as a monthly program (12 months) so that your child can learn one character trait per month. The 12 character traits are… The first month includes the book, CD, parent leader guide, grow chart & decals, tip sheet. $80 value ($25 book\/cd + $25 guide + $20 growth chart\/decals + $5 tip sheet + $5 video) for only $30 first month and $20 per following month.<\/p><p>Cancel anytime prior to next billing cycle.<\/p>",
             "music_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0609\/4569\/4905\/files\/Twinkly.mp3?v=1708220852",
+            "button_text": "Learn More",
+            "button_link": "shopify:\/\/products\/the-character-classics-program",
             "show_tag": false,
             "tag": "Block Tag"
           }
@@ -53,6 +55,8 @@
             "collection_image": "shopify:\/\/shop_images\/jonathan-borba-Z1Oyw2snqn8-unsplash_1.jpg",
             "collection_description": "<h2>ABC's of Character<\/h2><p>Kids and parents will love the beautifully, and sometimes humorously, illustrated book. Twenty-six exciting stories and whimsical poems with a character twist will delight children as they journey through the alphabet.<\/p>",
             "music_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0609\/4569\/4905\/files\/Twinkly.mp3?v=1708220852",
+            "button_text": "Button Text",
+            "button_link": "",
             "show_tag": false,
             "tag": "Block Tag"
           }
@@ -65,6 +69,8 @@
             "collection_image": "shopify:\/\/shop_images\/young-boy-smiles-at-father-holding-baby-sister.jpg",
             "collection_description": "<h2>A Handbook for Life<\/h2><p>These enlightening books provide wisdom you may need, wrapped in real-life situations. These include friendships, relationships, work life, family life and more, through the lenses of civility, forgiveness, loyalty and other themes, in short sections with oft-humorous comic book illustrations.<\/p>",
             "music_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0609\/4569\/4905\/files\/Twinkly.mp3?v=1708220852",
+            "button_text": "Button Text",
+            "button_link": "",
             "show_tag": false,
             "tag": "Block Tag"
           }
@@ -77,6 +83,8 @@
             "collection_image": "shopify:\/\/shop_images\/young-boy-smiles-at-father-holding-baby-sister.jpg",
             "collection_description": "<h2>A Handbook for Life<\/h2><p>Choose from a variety of character building topics for your child<\/p>",
             "music_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0609\/4569\/4905\/files\/Twinkly.mp3?v=1708220852",
+            "button_text": "Button Text",
+            "button_link": "",
             "show_tag": true,
             "tag": "Coming Soon"
           }
@@ -89,6 +97,8 @@
             "collection_image": "shopify:\/\/shop_images\/young-boy-smiles-at-father-holding-baby-sister.jpg",
             "collection_description": "<h2>A Handbook for Life<\/h2><p>Choose from a variety of character building topics for your child<\/p>",
             "music_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0609\/4569\/4905\/files\/Twinkly.mp3?v=1708220852",
+            "button_text": "Button Text",
+            "button_link": "",
             "show_tag": true,
             "tag": "Coming Soon"
           }
@@ -102,6 +112,8 @@
             "collection_image": "shopify:\/\/shop_images\/young-boy-smiles-at-father-holding-baby-sister.jpg",
             "collection_description": "<h2>A Handbook for Life<\/h2><p>Choose from a variety of character building topics for your child<\/p>",
             "music_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0609\/4569\/4905\/files\/Twinkly.mp3?v=1708220852",
+            "button_text": "Button Text",
+            "button_link": "",
             "show_tag": false,
             "tag": "Block Tag"
           }
