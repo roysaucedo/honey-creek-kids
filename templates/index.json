@@ -6,7 +6,7 @@
         "h1": "Better Kids Make A Better World",
         "p": "HoneyCreek Kids aims to positively influence families by creating life-changing products and materials that inspire.",
         "subtext": "Over 1,000,000+ copies sold",
-        "button_text": "Explore Our Library",
+        "button_text": "Explore Our Collections",
         "button_link": "shopify:\/\/collections\/all",
         "image": "shopify:\/\/shop_images\/Hero-Img-HoneyCreek_2.png",
         "absolute_image": "shopify:\/\/shop_images\/image_5_5.png"
@@ -105,9 +105,13 @@
     },
     "home_values_statement_X3drFX": {
       "type": "home-values-statement",
+      "custom_css": [
+        "h2 {color: #c25700; font-family: \"DM Serif Text\", serif; font-size: 40px;}",
+        "a {background: #c25700; box-shadow: #c25700;}"
+      ],
       "settings": {
-        "h1": "Gold Label Values",
-        "p": "<p>At Honey Creek, we offer a collection of products and resources that embody timeless values. Our content is not just inspirational, meaningful, and endearing but is also seamlessly integrated into daily life, making it easy to listen to, watch, or read.<\/p><p>Rooted in the philosophy of 'Sing It and You'll Never Forget It', our products are designed to be enjoyed repeatedly by children, youth, and adults alike. Our offerings go beyond mere entertainment; they serve as a powerful tool to reinforce essential behavioral traits and skills.<\/p><p>By providing positive alternatives to negative behavior, we contribute to personal growth and development. With a focus on teaching basic living skills, our products carry positive core values that align with the principles of successful living.<\/p><p>What sets us apart is the simplicity and accessibility of our products. With little to no preparation required, they are easy to use and easily orchestrate into various aspects of life. Moreover, our content encourages observation and awareness traits, fostering a mindset that engages users to serve others, mentor, and undergo positive character transformation.<\/p><p>We are dedicated to creating an enriching experience that not only entertains, but also educates and inspires individuals of all ages. Join us on a journey of personal growth, positive change, and a celebration of timeless values.<\/p>",
+        "h1": "GOLD LABEL VALUES",
+        "p": "<ul><li>At Honey Creek, we offer a collection of products and resources that embody timeless values. Our content is not just inspirational, meaningful, and endearing but is also seamlessly integrated into daily life, making it easy to listen to, watch, or read.<\/li><li>Rooted in the philosophy of 'Sing It and You'll Never Forget It', our products are designed to be enjoyed repeatedly by children, youth, and adults alike. Our offerings go beyond mere entertainment; they serve as a powerful tool to reinforce essential behavioral traits and skills.<\/li><li>By providing positive alternatives to negative behavior, we contribute to personal growth and development. With a focus on teaching basic living skills, our products carry positive core values that align with the principles of successful living.<\/li><li>What sets us apart is the simplicity and accessibility of our products. With little to no preparation required, they are easy to use and easily orchestrate into various aspects of life. Moreover, our content encourages observation and awareness traits, fostering a mindset that engages users to serve others, mentor, and undergo positive character transformation.<\/li><li>We are dedicated to creating an enriching experience that not only entertains, but also educates and inspires individuals of all ages. Join us on a journey of personal growth, positive change, and a celebration of timeless values.<\/li><\/ul><p><\/p>",
         "btn_text": "Learn More",
         "link": "shopify:\/\/pages\/honey-creek-kids-values",
         "img_top_left": "shopify:\/\/shop_images\/Group_47_3.png",
@@ -152,6 +156,147 @@
         "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_whjGBD": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wTiJJY": {
+          "type": "heading",
+          "settings": {
+            "heading": "Explore Our Collections",
+            "heading_size": "h1"
+          }
+        },
+        "text_RRCVaW": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_TBUfxG": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_wTiJJY",
+        "text_RRCVaW",
+        "button_TBUfxG"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 12
+      }
+    },
+    "section_collection_header_chptgg": {
+      "type": "section-collection-header",
+      "blocks": {
+        "collection_p4iADN": {
+          "type": "Collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_5_5.png",
+            "collection_title": "Collection Title",
+            "collection_description": "<p>Collection Description<\/p>",
+            "music_link": "Music Link",
+            "button_text": "Button Text",
+            "button_link": "",
+            "show_tag": false,
+            "tag": "Block Tag"
+          }
+        },
+        "collection_Q8bb9R": {
+          "type": "Collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_5_5.png",
+            "collection_title": "Collection Title",
+            "collection_description": "<p>Collection Description<\/p>",
+            "music_link": "Music Link",
+            "button_text": "Button Text",
+            "button_link": "",
+            "show_tag": false,
+            "tag": "Block Tag"
+          }
+        },
+        "collection_f7kAAp": {
+          "type": "Collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_5_5.png",
+            "collection_title": "Collection Title",
+            "collection_description": "<p>Collection Description<\/p>",
+            "music_link": "Music Link",
+            "button_text": "Button Text",
+            "button_link": "",
+            "show_tag": false,
+            "tag": "Block Tag"
+          }
+        },
+        "collection_XcgPmp": {
+          "type": "Collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_5_5.png",
+            "collection_title": "Collection Title",
+            "collection_description": "<p>Collection Description<\/p>",
+            "music_link": "Music Link",
+            "button_text": "Button Text",
+            "button_link": "",
+            "show_tag": false,
+            "tag": "Block Tag"
+          }
+        },
+        "collection_TccjQD": {
+          "type": "Collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_11_1.png",
+            "collection_title": "Collection Title",
+            "collection_description": "<p>Collection Description<\/p>",
+            "music_link": "Music Link",
+            "button_text": "Button Text",
+            "button_link": "",
+            "show_tag": false,
+            "tag": "Block Tag"
+          }
+        },
+        "collection_T7NHHF": {
+          "type": "Collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_11_1.png",
+            "collection_title": "Collection Title",
+            "collection_description": "<p>Collection Description<\/p>",
+            "music_link": "Music Link",
+            "button_text": "Button Text",
+            "button_link": "",
+            "show_tag": false,
+            "tag": "Block Tag"
+          }
+        }
+      },
+      "block_order": [
+        "collection_p4iADN",
+        "collection_Q8bb9R",
+        "collection_f7kAAp",
+        "collection_XcgPmp",
+        "collection_TccjQD",
+        "collection_T7NHHF"
+      ],
+      "settings": {
+        "heading": "Explore Our Collections",
+        "p": "",
+        "image": "shopify:\/\/shop_images\/image_5_5.png",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -389,6 +534,7 @@
         "heading_c9nDV8",
         "text_VDg9jL"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -472,7 +618,7 @@
         "card_styles": "product-card-wrapper",
         "color_scheme": "",
         "padding_top": 36,
-        "padding_bottom": 100
+        "padding_bottom": 28
       }
     },
     "featured_product_k4mcNV": {
@@ -588,10 +734,11 @@
         "heading_eGTy4c",
         "buttons_UWtT4j"
       ],
+      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/suad-kamardeen-8PyNdtGL4Bg-unsplash_2.jpg",
+        "image": "shopify:\/\/shop_images\/young-boy-smiles-at-father-holding-baby-sister.jpg",
         "image_overlay_opacity": 30,
-        "image_height": "adapt",
+        "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -609,6 +756,8 @@
     "rich_text_TprPeD",
     "home_values_statement_X3drFX",
     "image_with_text_3bKwHT",
+    "rich_text_whjGBD",
+    "section_collection_header_chptgg",
     "rich_text_prqyVM",
     "featured_product_7hG7Az",
     "featured_collection_6P3cLp",
