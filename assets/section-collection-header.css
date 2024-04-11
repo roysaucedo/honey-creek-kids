@@ -16,6 +16,14 @@
     text-decoration: none;
 }
 
+.collection-header--icon:hover {
+    color: white;
+}
+
+.collection-header--ico div:hover {
+    color: white !important;
+}
+
 .collection-header--icon img {
     width: 100px;
     height: auto;
@@ -65,8 +73,16 @@
     text-decoration: none;
 }
 
+.collection-header--icon-title>div>p:hover {
+    color: white
+}
+
+
+.collection-header--icon-title p:hover {
+    color: white
+}
+
 .collection-header--icon-title a {
-    
     text-decoration: none;
 }
 
