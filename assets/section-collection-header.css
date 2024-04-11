@@ -24,6 +24,7 @@
 .collection-header--icon-title {
     border-radius: 100px;
     padding: 8px 15px;
+    text-decoration: none;
     /* background-color: rgb(var(--color-foreground)); */
     border: 1px solid rgb(var(--color-foreground));
     /* color: white; */
@@ -44,6 +45,7 @@
 .collection-header--icon-title-selected {
     border-radius: 100px;
     padding: 8px 15px;
+    text-decoration: none;
     background-color: rgb(var(--color-foreground));
     border: 1px solid rgb(var(--color-foreground));
     color: white;
