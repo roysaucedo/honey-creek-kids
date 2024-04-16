@@ -125,29 +125,26 @@
         "slide_AG37xx": {
           "type": "Slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Frame30.png",
-            "rich_text": "<h1>Contentment<\/h1>"
+            "rich_text": "<h1>Review<\/h1>"
           }
         },
-        "slide_RhnaUM": {
+        "slide_r8dPDG": {
           "type": "Slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Frame_34_5.png",
-            "rich_text": "<h1>Truthfulness<\/h1>"
+            "rich_text": "<h1>Review<\/h1>"
           }
         },
-        "slide_zEU7Ut": {
+        "slide_iyiGmC": {
           "type": "Slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Frame_42_1.png",
-            "rich_text": "<h1>Goodness<\/h1>"
+            "rich_text": "<h1>Review<\/h1>"
           }
         }
       },
       "block_order": [
         "slide_AG37xx",
-        "slide_RhnaUM",
-        "slide_zEU7Ut"
+        "slide_r8dPDG",
+        "slide_iyiGmC"
       ],
       "settings": {
         "h2": "Customer Reviews",
@@ -237,7 +234,6 @@
         "share",
         "recharge_subscriptions_subscription_widget_bhVtwr"
       ],
-      "disabled": true,
       "settings": {
         "enable_sticky_info": true,
         "color_scheme": "",
