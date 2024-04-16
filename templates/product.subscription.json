@@ -147,6 +147,42 @@
           "settings": {
             "rich_text": "<h1>Kindess<\/h1>"
           }
+        },
+        "slide_kBp7jA": {
+          "type": "Slide",
+          "settings": {
+            "rich_text": "<h1>Patience<\/h1>"
+          }
+        },
+        "slide_mHPBWp": {
+          "type": "Slide",
+          "settings": {
+            "rich_text": "<h1>Obedience<\/h1>"
+          }
+        },
+        "slide_tgqfxz": {
+          "type": "Slide",
+          "settings": {
+            "rich_text": "<h1>Dependability<\/h1>"
+          }
+        },
+        "slide_HkaEwR": {
+          "type": "Slide",
+          "settings": {
+            "rich_text": "<h1>Self Control<\/h1>"
+          }
+        },
+        "slide_pkerNx": {
+          "type": "Slide",
+          "settings": {
+            "rich_text": "<h1>Perseverance<\/h1>"
+          }
+        },
+        "slide_zEU7Ut": {
+          "type": "Slide",
+          "settings": {
+            "rich_text": "<h1>Goodness<\/h1>"
+          }
         }
       },
       "block_order": [
@@ -155,7 +191,13 @@
         "slide_MnGRXN",
         "slide_tDQxE9",
         "slide_j7GtVa",
-        "slide_6bPWCq"
+        "slide_6bPWCq",
+        "slide_kBp7jA",
+        "slide_mHPBWp",
+        "slide_tgqfxz",
+        "slide_HkaEwR",
+        "slide_pkerNx",
+        "slide_zEU7Ut"
       ],
       "settings": {
         "h2": "Character Classics Traits",
