@@ -217,6 +217,12 @@
         "h3": ""
       }
     },
+    "1713291665f41e4d28": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -395,6 +401,7 @@
     "image_with_text_MJkwYg",
     "multirow_WbizRx",
     "section_reviews_slider_ADhXYx",
+    "1713291665f41e4d28",
     "main",
     "video_7jwNLx",
     "170961959994ceef1e",
