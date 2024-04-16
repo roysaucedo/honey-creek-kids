@@ -164,12 +164,14 @@
         "slide_mHPBWp": {
           "type": "Slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_39_4.png",
             "rich_text": "<h1>Obedience<\/h1>"
           }
         },
         "slide_tgqfxz": {
           "type": "Slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_40_5.png",
             "rich_text": "<h1>Dependability<\/h1>"
           }
         },
