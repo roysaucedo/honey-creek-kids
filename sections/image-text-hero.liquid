@@ -29,7 +29,7 @@
   </div>
   <div class="image-text-hero--text-div">
     <h1 class="h0">{{ section.settings.h1 }}</h1>
-    <p>{{ section.settings.p }}</p>
+    <span>{{ section.settings.p }}</span>
     <a class="button button--primary" href="{{ section.settings.button_link }}">{{ section.settings.button_text }}</a>
     <p>{{ section.settings.subtext }}</p>
 
@@ -52,9 +52,9 @@
       "label": "Heading"
     },
     {
-      "type": "textarea",
+      "type": "richtext",
       "id": "p",
-      "default": "Paragraph text goes here",
+      "default": "<p>Paragraph text goes here</p>",
       "label": "Add your paragraph here"
     },
     {
