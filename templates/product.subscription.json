@@ -185,12 +185,14 @@
         "slide_pkerNx": {
           "type": "Slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_38_2.png",
             "rich_text": "<h1>Perseverance<\/h1>"
           }
         },
         "slide_zEU7Ut": {
           "type": "Slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_42_1.png",
             "rich_text": "<h1>Goodness<\/h1>"
           }
         }
