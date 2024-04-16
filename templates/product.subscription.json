@@ -133,7 +133,19 @@
         "slide_tDQxE9": {
           "type": "Slide",
           "settings": {
-            "rich_text": "<p>Enter your review text here.<\/p>"
+            "rich_text": "<h1>Thankfulness<\/h1>"
+          }
+        },
+        "slide_j7GtVa": {
+          "type": "Slide",
+          "settings": {
+            "rich_text": "<h1>Respect<\/h1>"
+          }
+        },
+        "slide_6bPWCq": {
+          "type": "Slide",
+          "settings": {
+            "rich_text": "<h1>Kindess<\/h1>"
           }
         }
       },
@@ -141,7 +153,9 @@
         "slide_AG37xx",
         "slide_RhnaUM",
         "slide_MnGRXN",
-        "slide_tDQxE9"
+        "slide_tDQxE9",
+        "slide_j7GtVa",
+        "slide_6bPWCq"
       ],
       "settings": {
         "h2": "Character Classics Traits",
