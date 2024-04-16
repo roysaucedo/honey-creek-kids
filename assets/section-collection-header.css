@@ -25,9 +25,9 @@
 }
 
 .collection-header--icon img {
-    width: 100px;
-    height: auto;
-    min-width: 100px;
+    width: auto;
+    height: 150px;
+    max-height: 200px;
     padding-bottom: 10px;
 }
 
