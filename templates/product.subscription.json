@@ -121,13 +121,13 @@
         "slide_RhnaUM": {
           "type": "Slide",
           "settings": {
-            "rich_text": "<p>Enter your review text here.<\/p>"
+            "rich_text": "<h1>Truthfulness<\/h1>"
           }
         },
         "slide_MnGRXN": {
           "type": "Slide",
           "settings": {
-            "rich_text": "<p>Enter your review text here.<\/p>"
+            "rich_text": "<h1>Attentiveness<\/h1>"
           }
         },
         "slide_tDQxE9": {
