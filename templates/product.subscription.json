@@ -136,69 +136,6 @@
             "rich_text": "<h1>Truthfulness<\/h1>"
           }
         },
-        "slide_MnGRXN": {
-          "type": "Slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Frame28.png",
-            "rich_text": "<h1>Attentiveness<\/h1>"
-          }
-        },
-        "slide_tDQxE9": {
-          "type": "Slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Frame_35_2.png",
-            "rich_text": "<h1>Thankfulness<\/h1>"
-          }
-        },
-        "slide_j7GtVa": {
-          "type": "Slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Frame_36_2.png",
-            "rich_text": "<h1>Respect<\/h1>"
-          }
-        },
-        "slide_6bPWCq": {
-          "type": "Slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Frame_37_2.png",
-            "rich_text": "<h1>Kindess<\/h1>"
-          }
-        },
-        "slide_kBp7jA": {
-          "type": "Slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Frame_38_2.png",
-            "rich_text": "<h1>Patience<\/h1>"
-          }
-        },
-        "slide_mHPBWp": {
-          "type": "Slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Frame_39_4.png",
-            "rich_text": "<h1>Obedience<\/h1>"
-          }
-        },
-        "slide_tgqfxz": {
-          "type": "Slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Frame_40_5.png",
-            "rich_text": "<h1>Dependability<\/h1>"
-          }
-        },
-        "slide_HkaEwR": {
-          "type": "Slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Frame_41_2.png",
-            "rich_text": "<h1>Self Control<\/h1>"
-          }
-        },
-        "slide_pkerNx": {
-          "type": "Slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Frame_38_2.png",
-            "rich_text": "<h1>Perseverance<\/h1>"
-          }
-        },
         "slide_zEU7Ut": {
           "type": "Slide",
           "settings": {
@@ -210,20 +147,10 @@
       "block_order": [
         "slide_AG37xx",
         "slide_RhnaUM",
-        "slide_MnGRXN",
-        "slide_tDQxE9",
-        "slide_j7GtVa",
-        "slide_6bPWCq",
-        "slide_kBp7jA",
-        "slide_mHPBWp",
-        "slide_tgqfxz",
-        "slide_HkaEwR",
-        "slide_pkerNx",
         "slide_zEU7Ut"
       ],
-      "disabled": true,
       "settings": {
-        "h2": "Character Classics Traits",
+        "h2": "Customer Reviews",
         "h3": ""
       }
     },
