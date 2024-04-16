@@ -3,12 +3,12 @@
     "image_text_hero_btcBMG": {
       "type": "image-text-hero",
       "settings": {
-        "h1": "The Character Classics Program",
-        "p": "12 Character Traits over 12 months that last a lifetime!\nRecommended Age: 3-11+",
+        "h1": "Character Classics",
+        "p": "12-Month Program\n\nWith the Character Classics Monthly Program you will have the tools and ability to influence and guide your kids through one positive character trait every month.",
         "subtext": "",
         "button_text": "",
         "button_link": "",
-        "image": "shopify:\/\/shop_images\/pexels-lina-kivaka-1741230.jpg",
+        "image": "shopify:\/\/shop_images\/Hero-Img-HoneyCreek_2.png",
         "absolute_image": "shopify:\/\/shop_images\/LionMusic_Project_File.png"
       }
     },
@@ -54,24 +54,13 @@
     "multirow_WbizRx": {
       "type": "multirow",
       "blocks": {
-        "row_fhBnr6": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/pexels-andy-kuzma-2801567.jpg",
-            "caption": "",
-            "heading": "Overview",
-            "text": "<p>With the Character Classics Monthly Program you will have the tools and ability to influence and guide your kids through one positive character trait every month. <\/p><p>By building and reinforcing one character trait every day for a month, children will experience continuous and progressive character development that will help bring success at home, at school, and throughout their lives. <\/p><p>Parents, teachers, and anyone working with children see the power of this program in just a few weeks. You will receive one learning module each month from the Character Classics series.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
         "row_rtUX74": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Starter_Kit_1.png",
+            "image": "shopify:\/\/shop_images\/Starter_Kit_3.png",
             "caption": "",
-            "heading": "Character Classics Starter Kit",
-            "text": "<h3>First Month Starter Kit: $29.99 ($85 value)<\/h3><ul><li>Classical Music CD & Activity Resource Book<\/li><li>Parent Leaders Guide - <em>Inspirational Edition Available<\/em><\/li><li>Growth Chart + Decal<\/li><li>Tip sheet<\/li><li>Short Character Boost Video<\/li><li>Audio Player - Sample<\/li><\/ul>",
+            "heading": "1st Month - Starter Kit",
+            "text": "<h3>First Month Starter Kit: $30 ($80 value)<\/h3><ul><li>10-Track Classical Music CD<\/li><li>Activity Resource Book<\/li><li>Parent\/Leader Guide - <em>Inspirational Edition Available<\/em><\/li><li>Growth Chart<\/li><li>Growth Chart Sticker<\/li><li>Welcome\/Intro Usage Sheet<\/li><li>Short Character Boost Video<\/li><\/ul><p>By building and reinforcing one character trait every day for a month, children will experience continuous and progressive character development that will help bring success at home, at school, and throughout their lives. <\/p>",
             "button_label": "",
             "button_link": ""
           }
@@ -79,19 +68,31 @@
         "row_p4tFGd": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Starter_Kit_2.png",
+            "image": "shopify:\/\/shop_images\/Starter_Kit_4.png",
             "caption": "",
-            "heading": "Monthly Gift Box",
-            "text": "<h3>11 Following Months - $19.99\/mo ($25 value)<\/h3><ul><li>Classical Music CD & Activity Resource Book<\/li><li>Growth Chart Decal<\/li><li>Tip sheet<\/li><li>Short Character Boost Video<\/li><\/ul><p>Cancel anytime prior to next billing cycle.<\/p>",
+            "heading": "Monthly Program",
+            "text": "<h3>11 Following Months - $20\/mo ($40 value)<\/h3><ul><li>10-Track Classical Music CD<\/li><li>Activity Resource Book<\/li><li>Growth Chart Sticker<\/li><li>Welcome\/Intro Usage Sheet<\/li><li>Short Character Boost Video<\/li><\/ul><p><strong>Cancel anytime prior to next billing cycle.<\/strong><\/p><p>Parents, teachers, and anyone working with children see the power of this program in just a few weeks.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_fhBnr6": {
+          "type": "row",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-andy-kuzma-2801567.jpg",
+            "caption": "",
+            "heading": "Overview",
+            "text": "<p>By building and reinforcing one character trait every day for a month, children will experience continuous and progressive character development that will help bring success at home, at school, and throughout their lives. <\/p><p><\/p>",
             "button_label": "",
             "button_link": ""
           }
         }
       },
       "block_order": [
-        "row_fhBnr6",
         "row_rtUX74",
-        "row_p4tFGd"
+        "row_p4tFGd",
+        "row_fhBnr6"
       ],
       "settings": {
         "image_height": "adapt",
