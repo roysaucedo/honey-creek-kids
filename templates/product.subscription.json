@@ -220,6 +220,12 @@
           "settings": {
             "product": "{{product}}"
           }
+        },
+        "custom_liquid_9xawUT": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div id=\"buy-section\"><\/div>"
+          }
         }
       },
       "block_order": [
@@ -232,7 +238,8 @@
         "buy_buttons",
         "description",
         "share",
-        "recharge_subscriptions_subscription_widget_bhVtwr"
+        "recharge_subscriptions_subscription_widget_bhVtwr",
+        "custom_liquid_9xawUT"
       ],
       "settings": {
         "enable_sticky_info": true,
