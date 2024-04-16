@@ -219,6 +219,18 @@
     },
     "1713291665f41e4d28": {
       "type": "apps",
+      "blocks": {
+        "common_ninja_pricing_tables_app_block_iJHmYU": {
+          "type": "shopify:\/\/apps\/common-ninja-pricing-tables\/blocks\/app-block\/0b43aaa1-13a7-42a4-800e-5afa2e9cf1c6",
+          "settings": {
+            "isVisible": false,
+            "appId": ""
+          }
+        }
+      },
+      "block_order": [
+        "common_ninja_pricing_tables_app_block_iJHmYU"
+      ],
       "settings": {
         "include_margins": true
       }
