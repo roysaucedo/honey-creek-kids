@@ -54,7 +54,7 @@
     "custom_liquid_4kkmFM": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<script src=\"https:\/\/cdn.commoninja.com\/sdk\/latest\/commonninja.js\" defer><\/script>\n<div class=\"commonninja_component pid-f29e00bc-1c94-494e-b52e-17fe61a1ff7f\"><\/div>",
+        "custom_liquid": "",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
