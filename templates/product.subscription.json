@@ -78,6 +78,7 @@
         },
         "row_fhBnr6": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/pexels-andy-kuzma-2801567.jpg",
             "caption": "",
