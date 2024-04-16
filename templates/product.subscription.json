@@ -115,6 +115,7 @@
         "slide_AG37xx": {
           "type": "Slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Frame28.png",
             "rich_text": "<h1>Contentment<\/h1>"
           }
         },
