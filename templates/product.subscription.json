@@ -122,6 +122,7 @@
         "slide_RhnaUM": {
           "type": "Slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_34_5.png",
             "rich_text": "<h1>Truthfulness<\/h1>"
           }
         },
