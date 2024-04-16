@@ -309,6 +309,7 @@
         "share",
         "recharge_subscriptions_subscription_widget_bhVtwr"
       ],
+      "disabled": true,
       "settings": {
         "enable_sticky_info": true,
         "color_scheme": "",
@@ -352,6 +353,7 @@
       "block_order": [
         "judge_me_reviews_review_widget_bPYg43"
       ],
+      "disabled": true,
       "settings": {
         "include_margins": true
       }
@@ -377,6 +379,7 @@
     },
     "featured_collection_qDeg3U": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "custom_id": "custom-id",
         "title": "Shop Individual Products",
