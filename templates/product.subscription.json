@@ -129,6 +129,7 @@
         "slide_MnGRXN": {
           "type": "Slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Frame28.png",
             "rich_text": "<h1>Attentiveness<\/h1>"
           }
         },
