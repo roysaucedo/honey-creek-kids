@@ -51,6 +51,15 @@
         "padding_bottom": 36
       }
     },
+    "custom_liquid_4kkmFM": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<script src=\"https:\/\/cdn.commoninja.com\/sdk\/latest\/commonninja.js\" defer><\/script>\n<div class=\"commonninja_component pid-f29e00bc-1c94-494e-b52e-17fe61a1ff7f\"><\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "multirow_WbizRx": {
       "type": "multirow",
       "blocks": {
@@ -219,18 +228,6 @@
     },
     "1713291665f41e4d28": {
       "type": "apps",
-      "blocks": {
-        "common_ninja_pricing_tables_app_block_iJHmYU": {
-          "type": "shopify:\/\/apps\/common-ninja-pricing-tables\/blocks\/app-block\/0b43aaa1-13a7-42a4-800e-5afa2e9cf1c6",
-          "settings": {
-            "isVisible": false,
-            "appId": ""
-          }
-        }
-      },
-      "block_order": [
-        "common_ninja_pricing_tables_app_block_iJHmYU"
-      ],
       "settings": {
         "include_margins": true
       }
@@ -411,6 +408,7 @@
   "order": [
     "image_text_hero_btcBMG",
     "image_with_text_MJkwYg",
+    "custom_liquid_4kkmFM",
     "multirow_WbizRx",
     "section_reviews_slider_ADhXYx",
     "1713291665f41e4d28",
