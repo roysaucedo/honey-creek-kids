@@ -150,12 +150,14 @@
         "slide_6bPWCq": {
           "type": "Slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/K.png",
             "rich_text": "<h1>Kindess<\/h1>"
           }
         },
         "slide_kBp7jA": {
           "type": "Slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_38_2.png",
             "rich_text": "<h1>Patience<\/h1>"
           }
         },
