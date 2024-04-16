@@ -4,7 +4,7 @@
       "type": "image-text-hero",
       "settings": {
         "h1": "The Character Classics Program",
-        "p": "12 Character Traits over 12 months that last a lifetime!\nRecommended Age: 3-11+",
+        "p": "12 Month Program\nRecommended Age: 3-11+",
         "subtext": "",
         "button_text": "",
         "button_link": "",
@@ -70,7 +70,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Starter_Kit_1.png",
             "caption": "",
-            "heading": "Character Classics Starter Kit",
+            "heading": "First Month - Starter Kit",
             "text": "<h3>First Month Starter Kit: $29.99 ($85 value)<\/h3><ul><li>Classical Music CD & Activity Resource Book<\/li><li>Parent Leaders Guide - <em>Inspirational Edition Available<\/em><\/li><li>Growth Chart + Decal<\/li><li>Tip sheet<\/li><li>Short Character Boost Video<\/li><li>Audio Player - Sample<\/li><\/ul>",
             "button_label": "",
             "button_link": ""
