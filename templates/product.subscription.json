@@ -1,7 +1,21 @@
 {
   "sections": {
+    "subscription_hero_QfPyYj": {
+      "type": "subscription-hero",
+      "settings": {
+        "logo_image": "shopify:\/\/shop_images\/CharacterClassics_Logo_w-shadow.png",
+        "h1": "",
+        "p": "<h2>12-Month Program<\/h2><p>Utilizing classical music, this unique monthly program will give you the tools and ability to influence and guide your kids through one positive character trait every month.<\/p>",
+        "subtext": "",
+        "button_text": "BUY NOW",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/Hero-Img-HoneyCreek_2.png",
+        "absolute_image": "shopify:\/\/shop_images\/LionMusic_Project_File.png"
+      }
+    },
     "image_text_hero_btcBMG": {
       "type": "image-text-hero",
+      "disabled": true,
       "settings": {
         "h1": "Character Classics",
         "p": "<h2>12-Month Program<\/h2><p>Utilizing classical music, this unique monthly program will give you the tools and ability to influence and guide your kids through one positive character trait every month.<\/p>",
@@ -340,6 +354,7 @@
     }
   },
   "order": [
+    "subscription_hero_QfPyYj",
     "image_text_hero_btcBMG",
     "image_with_text_MJkwYg",
     "custom_liquid_4kkmFM",
