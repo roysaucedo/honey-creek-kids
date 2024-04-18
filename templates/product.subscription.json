@@ -135,6 +135,15 @@
         "padding_bottom": 36
       }
     },
+    "custom_liquid_6mW7qB": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<script src=\"https:\/\/cdn.commoninja.com\/sdk\/latest\/commonninja.js\" defer><\/script>\n<div class=\"commonninja_component pid-c0a52a02-5aeb-4d81-bc29-6f7e5c93d68c\"><\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "section_reviews_slider_ADhXYx": {
       "type": "section-reviews-slider",
       "blocks": {
@@ -361,6 +370,7 @@
     "image_with_text_MJkwYg",
     "custom_liquid_4kkmFM",
     "multirow_WbizRx",
+    "custom_liquid_6mW7qB",
     "section_reviews_slider_ADhXYx",
     "1713291665f41e4d28",
     "main",
