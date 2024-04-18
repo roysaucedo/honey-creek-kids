@@ -16,6 +16,15 @@
     height: auto;
     z-index: 100;
 }
+.liquid--embed-div {
+    width: 100%;
+    min-width: 300px;
+    padding: 20px 0px;
+}
+
+.image-text-hero--text-div div{
+    width: 100%;
+}
 
 
 @media only screen and (min-width: 1000px) {
@@ -26,6 +35,11 @@
         bottom: -20px;
         width: 180px;
     }
+    .liquid--embed-div {
+    width: 100%;
+    min-width: 300px;
+    padding: 20px 0px;
+}
   }
 {%- endstyle -%}
 
@@ -43,7 +57,7 @@
     class="image-text-hero--image"
   >
   
-  </div>
+</div>
   <div class="image-text-hero--text-div">
     {% if section.settings.h1 != blank %}
     <h1 class="h0">{{ section.settings.h1 }}</h1>
@@ -67,7 +81,7 @@
     height="{{ section.settings.absolute_image.height }}"
     class="subscription--absolute_image"
     >
-    <div>
+    <div class="liquid--embed-div">
         {{ section.settings.liquid }}
     </div>
   </div>
