@@ -194,7 +194,7 @@
         "custom_liquid_9xawUT": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div id=\"buy-section\"><\/div>"
+            "custom_liquid": "<div id=\"buy-section\">\n<\/div>"
           }
         },
         "vendor": {
