@@ -4,7 +4,7 @@
       "type": "image-text-hero",
       "settings": {
         "h1": "Better Kids Make A Better World",
-        "p": "HoneyCreek Kids aims to positively influence families by creating life-changing products and materials that inspire.",
+        "p": "<p>HoneyCreek Kids aims to positively influence families by creating life-changing products and materials that inspire.<\/p>",
         "subtext": "Over 1,000,000+ copies sold",
         "button_text": "Explore Our Collections",
         "button_link": "shopify:\/\/collections\/all",
@@ -24,7 +24,7 @@
         "slide_wU8gdt": {
           "type": "Slide",
           "settings": {
-            "rich_text": "<p>“A few of the students were crying because they felt so happy because they were touched by the music and the message. <span style=\"text-decoration:underline\"><strong>This is exactly what our school needed at this time.<\/strong><\/span>”<\/p><p><strong>Denis C. - Principal<\/strong><\/p>"
+            "rich_text": "<p>\"I really want to thank you for the character book and the CD. It was fabulous. Also the vocabulary like honesty, kindness, [and] respect.\"<\/p><p><strong>Chaysity E. - Elementary Student<\/strong><\/p>"
           }
         },
         "slide_ndXFK3": {
