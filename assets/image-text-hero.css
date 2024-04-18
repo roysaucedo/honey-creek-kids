@@ -15,6 +15,7 @@
     justify-content: center;
     text-align: center;
     padding: 20px;
+    position: relative;
 }
 
 .image-text-hero--text-div h1 {
@@ -40,7 +41,7 @@
     height: auto;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1000px) {
     /* For desktop: */
     .image-text-hero--ctr {
         display: flex;

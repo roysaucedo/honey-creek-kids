@@ -2,23 +2,27 @@
 
 {%- style -%}
 .image-text-hero--logo_image {
+    max-width: 500px;
+    width: 100%;
+    height: auto;
 
 }
 
 .subscription--absolute_image {
     position: absolute;
-    left: -10px;
-    bottom: -10px;
+    left: 0px;
+    bottom: -40px;
     width: 120px;
     height: auto;
+    z-index: 100;
 }
 
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1000px) {
     /* For desktop: */
    
     .subscription--absolute_image {
-        left: -60px;
+        left: 0px;
         bottom: -20px;
         width: 180px;
     }
@@ -38,14 +42,7 @@
     height="{{ section.settings.image.height }}"
     class="image-text-hero--image"
   >
-  <img
-  src="{{ section.settings.absolute_image | image_url: height: 1000 }}"
-  alt="{{ section.settings.absolute_image.alt | escape }}"
-  loading="eager"
-  width="{{ section.settings.absolute_image.width }}"
-  height="{{ section.settings.absolute_image.height }}"
-  class="subscription--absolute_image"
->
+  
   </div>
   <div class="image-text-hero--text-div">
     {% if section.settings.h1 != blank %}
@@ -62,7 +59,14 @@
     <span>{{ section.settings.p }}</span>
     <a class="button button--primary" href="{{ section.settings.button_link }}">{{ section.settings.button_text }}</a>
     <p>{{ section.settings.subtext }}</p>
-
+    <img
+  src="{{ section.settings.absolute_image | image_url: height: 1000 }}"
+  alt="{{ section.settings.absolute_image.alt | escape }}"
+  loading="eager"
+  width="{{ section.settings.absolute_image.width }}"
+  height="{{ section.settings.absolute_image.height }}"
+  class="subscription--absolute_image"
+>
   </div>
   
 
