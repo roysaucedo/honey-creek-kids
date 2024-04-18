@@ -30,42 +30,14 @@
         "slide_ndXFK3": {
           "type": "Slide",
           "settings": {
-            "rich_text": "<p>“A few of the students were crying because they felt so happy because they were touched by the music and the message. <span style=\"text-decoration:underline\"><strong>This is exactly what our school needed at this time.<\/strong><\/span>”<\/p><p><strong>Denis C. - Principal<\/strong><\/p>"
-          }
-        },
-        "slide_bi4Ehx": {
-          "type": "Slide",
-          "settings": {
-            "rich_text": "<p>“A few of the students were crying because they felt so happy because they were touched by the music and the message. <span style=\"text-decoration:underline\"><strong>This is exactly what our school needed at this time.<\/strong><\/span>”<\/p><p><strong>Denis C. - Principal<\/strong><\/p>"
-          }
-        },
-        "slide_xxGmCT": {
-          "type": "Slide",
-          "settings": {
-            "rich_text": "<p>“A few of the students were crying because they felt so happy because they were touched by the music and the message. <span style=\"text-decoration:underline\"><strong>This is exactly what our school needed at this time.<\/strong><\/span>”<\/p><p><strong>Denis C. - Principal<\/strong><\/p>"
-          }
-        },
-        "slide_A3Lcxq": {
-          "type": "Slide",
-          "settings": {
-            "rich_text": "<p>“A few of the students were crying because they felt so happy because they were touched by the music and the message. <span style=\"text-decoration:underline\"><strong>This is exactly what our school needed at this time.<\/strong><\/span>”<\/p><p><strong>Denis C. - Principal<\/strong><\/p>"
-          }
-        },
-        "slide_Dh796R": {
-          "type": "Slide",
-          "settings": {
-            "rich_text": "<p>“A few of the students were crying because they felt so happy because they were touched by the music and the message. <span style=\"text-decoration:underline\"><strong>This is exactly what our school needed at this time.<\/strong><\/span>”<\/p><p><strong>Denis C. - Principal<\/strong><\/p>"
+            "rich_text": "<p>\"I sing the songs every day. And I also read the book. I loved everything.\"<\/p><p><strong>Sidney W. - Elementary Student<\/strong><\/p>"
           }
         }
       },
       "block_order": [
         "slide_H79nAt",
         "slide_wU8gdt",
-        "slide_ndXFK3",
-        "slide_bi4Ehx",
-        "slide_xxGmCT",
-        "slide_A3Lcxq",
-        "slide_Dh796R"
+        "slide_ndXFK3"
       ],
       "settings": {
         "h2": "Hear From Happy Customers",
