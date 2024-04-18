@@ -8,7 +8,7 @@
         "p": "<h2>12-Month Program<\/h2><p>Utilizing classical music, this unique monthly program will give you the tools and ability to influence and guide your kids through one positive character trait every month.<\/p>",
         "subtext": "",
         "button_text": "BUY NOW",
-        "button_link": "https:\/\/honeycreeku.com\/products\/the-character-classics-program?selling_plan=2498527417\/#buy-section",
+        "button_link": "#buy-section",
         "image": "shopify:\/\/shop_images\/Hero-Img-HoneyCreek_2.png",
         "absolute_image": "shopify:\/\/shop_images\/LionMusic_Project_File.png",
         "liquid": "<script src=\"https:\/\/cdn.commoninja.com\/sdk\/latest\/commonninja.js\" defer><\/script>\n<div class=\"commonninja_component pid-a62ce1e2-95a1-4d5b-bbfe-275e20e39f1d\"><\/div>"
@@ -87,7 +87,7 @@
             "heading": "1st Month - Starter Kit",
             "text": "<h3>First Month Starter Kit: $30 ($80 value)<\/h3><ul><li>10-Track Classical Music CD<\/li><li>Activity Resource Book<\/li><li>Parent\/Leader Guide - <em>Inspirational Edition Available<\/em><\/li><li>Growth Chart<\/li><li>Growth Chart Sticker<\/li><li>Welcome\/Intro Usage Sheet<\/li><li>Short Character Boost Video<\/li><\/ul><p>By building and reinforcing one character trait every day for a month, children will experience continuous and progressive character development that will help bring success at home, at school, and throughout their lives. <\/p>",
             "button_label": "BUY NOW",
-            "button_link": ""
+            "button_link": "#buy-section"
           }
         },
         "row_p4tFGd": {
