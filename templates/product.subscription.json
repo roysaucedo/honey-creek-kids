@@ -138,7 +138,7 @@
     "custom_liquid_6mW7qB": {
       "type": "custom-liquid",
       "custom_css": [
-        "div {padding: 20px;}"
+
       ],
       "settings": {
         "custom_liquid": "<script src=\"https:\/\/cdn.commoninja.com\/sdk\/latest\/commonninja.js\" defer><\/script>\n<div class=\"commonninja_component pid-c0a52a02-5aeb-4d81-bc29-6f7e5c93d68c\"><\/div>",
