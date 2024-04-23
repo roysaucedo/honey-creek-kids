@@ -232,6 +232,18 @@
             "text_style": "body"
           }
         },
+        "icon_with_text_fxY6Va": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "vertical",
+            "icon_1": "truck",
+            "heading_1": "Free Shipping Every Month",
+            "icon_2": "none",
+            "heading_2": "",
+            "icon_3": "none",
+            "heading_3": ""
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -278,6 +290,7 @@
         "price",
         "text_MV4feP",
         "text_HhCgQy",
+        "icon_with_text_fxY6Va",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
