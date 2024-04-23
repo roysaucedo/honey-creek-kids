@@ -185,6 +185,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "custom_liquid_X9V7Ne": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div id=\"buy-section\">\n<\/div>"
+          }
+        },
         "vendor": {
           "type": "text",
           "disabled": true,
@@ -285,6 +291,7 @@
         }
       },
       "block_order": [
+        "custom_liquid_X9V7Ne",
         "vendor",
         "title",
         "judge_me_reviews_preview_badge_Km7VDp",
@@ -318,6 +325,7 @@
     },
     "custom_liquid_iY9pYJ": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<div id=\"buy-section\">\n<\/div>",
         "color_scheme": "",
