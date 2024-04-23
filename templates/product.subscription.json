@@ -214,7 +214,22 @@
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {
+          }
+        },
+        "text_MV4feP": {
+          "type": "text",
+          "settings": {
+            "text": "$30.00 First Month Starter Kit",
+            "text_style": "body"
+          }
+        },
+        "text_HhCgQy": {
+          "type": "text",
+          "settings": {
+            "text": "$20.00 Months 2-12",
+            "text_style": "body"
           }
         },
         "variant_picker": {
@@ -261,6 +276,8 @@
         "title",
         "judge_me_reviews_preview_badge_Km7VDp",
         "price",
+        "text_MV4feP",
+        "text_HhCgQy",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
