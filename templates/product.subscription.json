@@ -259,13 +259,6 @@
             "heading_3": ""
           }
         },
-        "text_g4aPQa": {
-          "type": "text",
-          "settings": {
-            "text": "Cancel anytime prior to next billing cycle.",
-            "text_style": "uppercase"
-          }
-        },
         "quantity_selector": {
           "type": "quantity_selector",
           "disabled": true,
@@ -277,6 +270,13 @@
           "settings": {
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": false
+          }
+        },
+        "text_g4aPQa": {
+          "type": "text",
+          "settings": {
+            "text": "Cancel anytime prior to next billing cycle.",
+            "text_style": "uppercase"
           }
         },
         "description": {
@@ -303,9 +303,9 @@
         "text_HhCgQy",
         "variant_picker",
         "icon_with_text_fxY6Va",
-        "text_g4aPQa",
         "quantity_selector",
         "buy_buttons",
+        "text_g4aPQa",
         "description",
         "share"
       ],
