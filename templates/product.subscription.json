@@ -182,15 +182,6 @@
         "h3": ""
       }
     },
-    "custom_liquid_iY9pYJ": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div id=\"buy-section\">\n<\/div>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -325,6 +316,15 @@
         "padding_bottom": 12
       }
     },
+    "custom_liquid_iY9pYJ": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"buy-section\">\n<\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "video_7jwNLx": {
       "type": "video",
       "disabled": true,
@@ -415,8 +415,8 @@
     "multirow_WbizRx",
     "custom_liquid_6mW7qB",
     "section_reviews_slider_ADhXYx",
-    "custom_liquid_iY9pYJ",
     "main",
+    "custom_liquid_iY9pYJ",
     "video_7jwNLx",
     "170961959994ceef1e",
     "related-products",
