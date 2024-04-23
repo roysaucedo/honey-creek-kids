@@ -232,6 +232,13 @@
             "text_style": "body"
           }
         },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
         "icon_with_text_fxY6Va": {
           "type": "icon-with-text",
           "settings": {
@@ -251,15 +258,9 @@
             "text_style": "uppercase"
           }
         },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button",
-            "swatch_shape": "circle"
-          }
-        },
         "quantity_selector": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {
           }
         },
@@ -297,9 +298,9 @@
         "price",
         "text_MV4feP",
         "text_HhCgQy",
+        "variant_picker",
         "icon_with_text_fxY6Va",
         "text_g4aPQa",
-        "variant_picker",
         "quantity_selector",
         "buy_buttons",
         "description",
