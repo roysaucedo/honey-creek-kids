@@ -191,16 +191,6 @@
             "tag": "Block Tag"
           }
         },
-        "collection_ArbAK7": {
-          "type": "Collection",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Frame_43_2f341d99-7270-4772-bf4b-e809a5593937.png",
-            "collection_title": "ABC's Of Character",
-            "link": "shopify:\/\/collections\/abcs-of-character-learning-program",
-            "show_tag": false,
-            "tag": "Block Tag"
-          }
-        },
         "collection_7Vyt36": {
           "type": "Collection",
           "settings": {
@@ -209,6 +199,16 @@
             "link": "shopify:\/\/collections\/a-handbook-for-life",
             "show_tag": false,
             "tag": "Block Tag"
+          }
+        },
+        "collection_ArbAK7": {
+          "type": "Collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_43_2f341d99-7270-4772-bf4b-e809a5593937.png",
+            "collection_title": "ABC's Of Character",
+            "link": "shopify:\/\/collections\/abcs-of-character-learning-program",
+            "show_tag": true,
+            "tag": "Coming Soon"
           }
         },
         "collection_EB7M4R": {
@@ -234,8 +234,8 @@
       },
       "block_order": [
         "collection_R3Cmiz",
-        "collection_ArbAK7",
         "collection_7Vyt36",
+        "collection_ArbAK7",
         "collection_EB7M4R",
         "collection_PyYfQy"
       ],
