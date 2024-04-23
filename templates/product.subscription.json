@@ -220,13 +220,13 @@
         },
         "recharge_subscriptions_subscription_widget_bhVtwr": {
           "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
-          "disabled": true,
           "settings": {
             "product": "{{product}}"
           }
         },
         "text_MV4feP": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "$30.00 First Month Starter Kit",
             "text_style": "body"
@@ -234,6 +234,7 @@
         },
         "text_HhCgQy": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "$20.00 Each Month (2-12)",
             "text_style": "body"
