@@ -30,7 +30,7 @@
     "header": {
       "type": "header",
       "custom_css": [
-        "* {text-transform: uppercase; font-weight: 600; font-size: 14px;}"
+        "* {text-transform: uppercase; font-weight: 600; font-size: 11px;}"
       ],
       "settings": {
         "logo_position": "middle-center",
