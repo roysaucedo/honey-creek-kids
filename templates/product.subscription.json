@@ -244,6 +244,13 @@
             "heading_3": ""
           }
         },
+        "text_g4aPQa": {
+          "type": "text",
+          "settings": {
+            "text": "Cancel anytime prior to next billing cycle.",
+            "text_style": "uppercase"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -291,6 +298,7 @@
         "text_MV4feP",
         "text_HhCgQy",
         "icon_with_text_fxY6Va",
+        "text_g4aPQa",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
