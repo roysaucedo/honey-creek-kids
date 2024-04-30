@@ -137,6 +137,7 @@
     },
     "custom_liquid_6mW7qB": {
       "type": "custom-liquid",
+      "disabled": true,
       "custom_css": [
 
       ],
