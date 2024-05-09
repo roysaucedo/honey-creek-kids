@@ -14,7 +14,7 @@
           "type": "column",
           "settings": {
             "title": "For Kids",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "",
             "link_label": "Shop Now",
             "link": ""
           }
@@ -23,7 +23,7 @@
           "type": "column",
           "settings": {
             "title": "For Parents\/Teachers",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "",
             "link_label": "Shop Now",
             "link": ""
           }
