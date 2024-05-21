@@ -38,6 +38,64 @@
         "padding_bottom": 52
       }
     },
+    "featured_collection_LCQQ9F": {
+      "type": "featured-collection",
+      "settings": {
+        "custom_id": "custom-id",
+        "title": "For Kids",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "abcs-of-character-for-kids",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_agi7fx": {
+      "type": "featured-collection",
+      "settings": {
+        "custom_id": "custom-id",
+        "title": "For Parents\/Teachers",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "abcs-of-character-for-parents-teachers",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_8wkarw": {
       "type": "multicolumn",
       "blocks": {
@@ -66,6 +124,7 @@
         "column_GqBgTQ",
         "column_WPMW3m"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -87,6 +146,8 @@
   "order": [
     "main",
     "rich_text_HCj9Rh",
+    "featured_collection_LCQQ9F",
+    "featured_collection_agi7fx",
     "multicolumn_8wkarw"
   ]
 }
