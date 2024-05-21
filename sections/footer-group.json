@@ -2,6 +2,43 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "section_collection_icon_h6LjGD": {
+      "type": "section-collection-icon",
+      "blocks": {
+        "collection_Y3NMKw": {
+          "type": "Collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_2_53.png",
+            "collection_title": "ABC's of Character",
+            "link": "",
+            "show_tag": false,
+            "tag": "Block Tag"
+          }
+        },
+        "collection_CBj3Rm": {
+          "type": "Collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_2_53.png",
+            "collection_title": "ABC's of Character",
+            "link": "",
+            "show_tag": false,
+            "tag": "Block Tag"
+          }
+        }
+      },
+      "block_order": [
+        "collection_Y3NMKw",
+        "collection_CBj3Rm"
+      ],
+      "settings": {
+        "heading": "Collection Heading",
+        "p": "Place Your Collection Sub Heading Here",
+        "image": "shopify:\/\/shop_images\/image_5_5.png",
+        "link": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "newsletter_NantNn": {
       "type": "newsletter",
       "blocks": {
@@ -79,6 +116,7 @@
     }
   },
   "order": [
+    "section_collection_icon_h6LjGD",
     "newsletter_NantNn",
     "footer"
   ]
