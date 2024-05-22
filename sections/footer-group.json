@@ -34,12 +34,34 @@
             "show_tag": false,
             "tag": "Block Tag"
           }
+        },
+        "collection_eNiDzE": {
+          "type": "Collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_45_ffd13bf4-bb09-4e30-ae48-86363ee5b23b.png",
+            "collection_title": "Character Billders",
+            "link": "",
+            "show_tag": true,
+            "tag": "Coming Soon"
+          }
+        },
+        "collection_dx8mMt": {
+          "type": "Collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_43_2f341d99-7270-4772-bf4b-e809a5593937.png",
+            "collection_title": "Mother Goose Tales",
+            "link": "",
+            "show_tag": true,
+            "tag": "Coming Soon"
+          }
         }
       },
       "block_order": [
         "collection_Y3NMKw",
         "collection_CBj3Rm",
-        "collection_kRQeWw"
+        "collection_kRQeWw",
+        "collection_eNiDzE",
+        "collection_dx8mMt"
       ],
       "settings": {
         "heading": "Explore Our Products",
