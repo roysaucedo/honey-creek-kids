@@ -24,11 +24,22 @@
             "show_tag": false,
             "tag": "Block Tag"
           }
+        },
+        "collection_kRQeWw": {
+          "type": "Collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_1_90.png",
+            "collection_title": "Handbook For Life",
+            "link": "shopify:\/\/collections\/a-handbook-for-life",
+            "show_tag": false,
+            "tag": "Block Tag"
+          }
         }
       },
       "block_order": [
         "collection_Y3NMKw",
-        "collection_CBj3Rm"
+        "collection_CBj3Rm",
+        "collection_kRQeWw"
       ],
       "settings": {
         "heading": "Explore Our Products",
