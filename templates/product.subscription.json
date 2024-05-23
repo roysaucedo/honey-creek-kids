@@ -1,5 +1,17 @@
 {
   "sections": {
+    "custom_liquid_VQDaA8": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".cc-hero-logo {margin: auto; max-width: 300px;}"
+      ],
+      "settings": {
+        "custom_liquid": "<img class=\"cc-hero-logo\" src=\"\" alt=\"character classics\">",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "featured_collection_jQADUg": {
       "type": "featured-collection",
       "settings": {
@@ -463,6 +475,7 @@
     }
   },
   "order": [
+    "custom_liquid_VQDaA8",
     "featured_collection_jQADUg",
     "subscription_hero_QfPyYj",
     "image_text_hero_btcBMG",
