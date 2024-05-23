@@ -100,42 +100,34 @@
         "padding_bottom": 36
       }
     },
-    "image_with_text_MJkwYg": {
-      "type": "image-with-text",
+    "rich_text_7TDeE6": {
+      "type": "rich-text",
       "blocks": {
-        "heading_r3CFg4": {
+        "heading_rme3DL": {
           "type": "heading",
           "settings": {
             "heading": "{{ product.metafields.custom.collection_title.value }}",
             "heading_size": "h1"
           }
         },
-        "text_HgYFyf": {
+        "text_GQ7nxr": {
           "type": "text",
           "settings": {
-            "text": "<p>{{ product.metafields.custom.short_collection_description | metafield_tag }}<\/p>",
-            "text_style": "body"
+            "text": "<p>{{ product.metafields.custom.short_collection_description | metafield_tag }}<\/p>"
           }
         }
       },
       "block_order": [
-        "heading_r3CFg4",
-        "text_HgYFyf"
+        "heading_rme3DL",
+        "text_GQ7nxr"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/young-boy-smiles-at-father-holding-baby-sister.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "170961959994ceef1e": {
@@ -176,7 +168,7 @@
   "order": [
     "main",
     "video_7jwNLx",
-    "image_with_text_MJkwYg",
+    "rich_text_7TDeE6",
     "170961959994ceef1e",
     "related-products"
   ]
