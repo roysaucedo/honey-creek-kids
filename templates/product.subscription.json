@@ -3,13 +3,13 @@
     "custom_liquid_VQDaA8": {
       "type": "custom-liquid",
       "custom_css": [
-        ".cc-hero-logo {margin: 0px auto; max-width: 300px;}"
+        ".cc-hero-logo {margin: 0px auto; width: 400px; max-width: 90%;}"
       ],
       "settings": {
         "custom_liquid": "<div style=\"display: flex; justify-content: center; width:100%;\">\n<img class=\"cc-hero-logo\" src=\"https:\/\/honeycreeku.com\/cdn\/shop\/files\/CharacterClassics_Logo_w-shadow.png?height=1000&v=1713460520\" alt=\"character classics\">\n<\/div>",
         "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 16,
+        "padding_bottom": 0
       }
     },
     "featured_collection_jQADUg": {
