@@ -12,6 +12,36 @@
         "padding_bottom": 0
       }
     },
+    "rich_text_g4Gadb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_VNAYwb": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_xdjbce": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Character Classics is a unique blend of memorable melodies and delightful, kid-friendly lyrics that help children discover the best of two worlds: Classical Music and Positive Values. Kids will enjoy unforgettable melodies — from Mozart, Haydn, Strauss, and other great composers — while they sing about valuable character traits.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VNAYwb",
+        "text_xdjbce"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
+    },
     "featured_collection_jQADUg": {
       "type": "featured-collection",
       "settings": {
@@ -476,6 +506,7 @@
   },
   "order": [
     "custom_liquid_VQDaA8",
+    "rich_text_g4Gadb",
     "featured_collection_jQADUg",
     "subscription_hero_QfPyYj",
     "image_text_hero_btcBMG",
