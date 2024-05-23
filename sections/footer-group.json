@@ -40,8 +40,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Frame_45_ffd13bf4-bb09-4e30-ae48-86363ee5b23b.png",
             "collection_title": "Character Billders",
-            "link": "",
-            "show_tag": true,
+            "link": "shopify:\/\/collections\/character-billders",
+            "show_tag": false,
             "tag": "Coming Soon"
           }
         },
