@@ -41,7 +41,7 @@
     "featured_collection_LCQQ9F": {
       "type": "featured-collection",
       "custom_css": [
-        ".h5 {font-size: 16px;}"
+        ".h5 {font-size: 18px;}"
       ],
       "settings": {
         "custom_id": "custom-id",
@@ -73,7 +73,7 @@
     "featured_collection_agi7fx": {
       "type": "featured-collection",
       "custom_css": [
-        ".h5 {font-size: 16px;}"
+        ".h5 {font-size: 18px;}"
       ],
       "settings": {
         "custom_id": "custom-id",
