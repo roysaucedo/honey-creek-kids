@@ -11,7 +11,7 @@
     "product-grid": {
       "type": "main-collection-product-grid",
       "custom_css": [
-        ".card__heading .h5 {font-size: 30px;}"
+        ".h5 {font-size: 16px;}"
       ],
       "settings": {
         "products_per_page": 24,
