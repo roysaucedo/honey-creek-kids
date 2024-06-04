@@ -40,6 +40,9 @@
     },
     "featured_collection_LCQQ9F": {
       "type": "featured-collection",
+      "custom_css": [
+        ".h5 {font-size: 16px;}"
+      ],
       "settings": {
         "custom_id": "custom-id",
         "title": "For Kids",
@@ -69,6 +72,9 @@
     },
     "featured_collection_agi7fx": {
       "type": "featured-collection",
+      "custom_css": [
+        ".h5 {font-size: 16px;}"
+      ],
       "settings": {
         "custom_id": "custom-id",
         "title": "For Teachers, Leaders, and Parents",
