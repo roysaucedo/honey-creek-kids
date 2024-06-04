@@ -44,6 +44,9 @@
     },
     "featured_collection_jQADUg": {
       "type": "featured-collection",
+      "custom_css": [
+        ".h5 {font-size: 16px;}"
+      ],
       "settings": {
         "custom_id": "custom-id",
         "title": "Purchase Individually",
