@@ -1,15 +1,5 @@
 {
   "sections": {
-    "custom_liquid_XTekd3": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "settings": {
-        "custom_liquid": "Breadcrumbs",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -176,7 +166,6 @@
     }
   },
   "order": [
-    "custom_liquid_XTekd3",
     "main",
     "video_7jwNLx",
     "rich_text_7TDeE6",

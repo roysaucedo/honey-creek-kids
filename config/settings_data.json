@@ -1,11 +1,12 @@
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/Group_22_1.svg",
+    "logo": "shopify:\/\/shop_images\/HoneyCreekU-Logo.png",
     "logo_width": 240,
+    "favicon": "shopify:\/\/shop_images\/Frame_44_3ffad478-2d59-4797-9b72-ba913b65194c.png",
     "type_header_font": "futura_n7",
     "heading_scale": 100,
     "type_body_font": "avenir_next_n4",
-    "body_scale": 100,
+    "body_scale": 130,
     "page_width": 1200,
     "spacing_sections": 0,
     "spacing_grid_horizontal": 8,
@@ -117,7 +118,7 @@
     "show_vendor": false,
     "show_cart_note": false,
     "cart_drawer_collection": "",
-    "checkout_logo_image": "shopify:\/\/shop_images\/Group_22_1.svg",
+    "checkout_logo_image": "shopify:\/\/shop_images\/HoneyCreekU-Logo.png",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",

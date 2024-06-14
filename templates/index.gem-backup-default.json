@@ -7,7 +7,7 @@
         "p": "<p>HoneyCreek Kids aims to positively influence families by creating life-changing products and materials that inspire.<\/p>",
         "subtext": "Over 1,000,000+ copies sold",
         "button_text": "Explore Our Collections",
-        "button_link": "shopify:\/\/pages\/shop-all",
+        "button_link": "shopify:\/\/collections\/all-products",
         "image": "shopify:\/\/shop_images\/Hero-Img-HoneyCreek_2.png",
         "absolute_image": "shopify:\/\/shop_images\/image_5_5.png"
       }
@@ -45,45 +45,6 @@
       "settings": {
         "h2": "Hear From Happy Customers",
         "h3": ""
-      }
-    },
-    "collage_nTW4wT": {
-      "type": "collage",
-      "blocks": {
-        "collection_6aE7fb": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "collection_cXBEJF": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "collection_X4xK4b": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection_6aE7fb",
-        "collection_cXBEJF",
-        "collection_X4xK4b"
-      ],
-      "disabled": true,
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "column",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "rich_text_TprPeD": {
@@ -300,24 +261,16 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "pagefly-home": {
-      "type": "pagefly-home",
-      "disabled": true,
-      "settings": {
-      }
     }
   },
   "order": [
     "image_text_hero_8T74VY",
     "section_reviews_slider_PDNUCL",
-    "collage_nTW4wT",
     "rich_text_TprPeD",
     "home_values_statement_X3drFX",
     "section_values_v2_tm8CeY",
     "image_with_text_3bKwHT",
     "rich_text_whjGBD",
-    "section_collection_icon_RfRzcb",
-    "pagefly-home"
+    "section_collection_icon_RfRzcb"
   ]
 }

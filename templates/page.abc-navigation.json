@@ -1,0 +1,163 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "rich_text_HCj9Rh": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HXXKar": {
+          "type": "heading",
+          "settings": {
+            "heading": "ABC's of Character",
+            "heading_size": "h1"
+          }
+        },
+        "text_qNYMmY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A Fun Program for Kids and Families that Helps Build Lives for a Brighter Future<\/p><p>What makes <em>ABC's of Character<\/em> unique is that it does not simply encourage kids<br\/>to DO good, but to BE good; rather than emphasizing making good choices,<br\/>it encourages being the kind of person who makes good choices.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_HXXKar",
+        "text_qNYMmY"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "featured_collection_LCQQ9F": {
+      "type": "featured-collection",
+      "custom_css": [
+        ".h5 {font-size: 18px;}",
+        ".price {font-size: 16px;}",
+        "@media only screen and (min-width: 768px) {\/* For desktop: *\/ .h5 {font-size: 22px; } .price {font-size: 18px; }}"
+      ],
+      "settings": {
+        "custom_id": "custom-id",
+        "title": "For Kids",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "abcs-of-character-for-kids",
+        "products_to_show": 6,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_agi7fx": {
+      "type": "featured-collection",
+      "custom_css": [
+        ".h5 {font-size: 18px;}",
+        ".price {font-size: 16px;}",
+        "@media only screen and (min-width: 768px) {\/* For desktop: *\/ .h5 {font-size: 22px; } .price {font-size: 18px; }}"
+      ],
+      "settings": {
+        "custom_id": "custom-id",
+        "title": "For Teachers, Leaders, and Parents",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "abcs-of-character-for-parents-teachers",
+        "products_to_show": 4,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_8wkarw": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_GqBgTQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Kids.jpg",
+            "title": "For Kids",
+            "text": "",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/abcs-of-character-for-kids"
+          }
+        },
+        "column_WPMW3m": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Adults.jpg",
+            "title": "For Parents\/Teachers",
+            "text": "",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/products\/abcs-of-character-daily-guide"
+          }
+        }
+      },
+      "block_order": [
+        "column_GqBgTQ",
+        "column_WPMW3m"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_HCj9Rh",
+    "featured_collection_LCQQ9F",
+    "featured_collection_agi7fx",
+    "multicolumn_8wkarw"
+  ]
+}

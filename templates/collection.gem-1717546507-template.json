@@ -2,9 +2,6 @@
   "sections": {
     "banner": {
       "type": "main-collection-banner",
-      "custom_css": [
-        "h1 {text-align: center;}"
-      ],
       "settings": {
         "show_collection_description": false,
         "show_collection_image": false,
@@ -14,9 +11,7 @@
     "product-grid": {
       "type": "main-collection-product-grid",
       "custom_css": [
-        ".h5 {font-size: 18px;}",
-        ".price {font-size: 16px;}",
-        "@media only screen and (min-width: 768px) {\/* For desktop: *\/ .h5 {font-size: 22px; } .price {font-size: 18px;}}"
+        ".h5 {font-size: 18px;}"
       ],
       "settings": {
         "products_per_page": 24,
