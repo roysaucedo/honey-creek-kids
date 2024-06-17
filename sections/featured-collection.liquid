@@ -94,8 +94,10 @@
               show_vendor: section.settings.show_vendor,
               show_rating: section.settings.show_rating,
               show_quick_add: section.settings.enable_quick_add,
-              section_id: section.id
+              section_id: section.id,
+              
             %}
+            
           </li>
         {%- else -%}
           {%- for i in (1..section.settings.columns_desktop) -%}
@@ -119,6 +121,7 @@
                 image_shape: section.settings.image_shape,
                 placeholder_image: placeholder_image
               %}
+              
             </li>
           {%- endfor -%}
         {%- endfor -%}

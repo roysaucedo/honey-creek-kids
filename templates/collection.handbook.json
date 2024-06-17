@@ -1,5 +1,12 @@
 {
   "sections": {
+    "breadcrumbs_6EdQGm": {
+      "type": "breadcrumbs",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "custom_css": [
@@ -38,6 +45,7 @@
     }
   },
   "order": [
+    "breadcrumbs_6EdQGm",
     "banner",
     "product-grid"
   ]

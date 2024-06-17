@@ -1,5 +1,7 @@
 {% unless template == 'index' or template == 'cart' or template == 'list-collections' %}
 
+<div class="page-width">
+
 <nav class="breadcrumb" role="navigation" aria-label="breadcrumbs">
 
   <a href="/" title="Home">Home</a>
@@ -81,5 +83,15 @@
   {% endif %}
 
 </nav>
+</div>
 
 {% endunless %} 
+
+<style>
+  .breadcrumb {
+    color: rgb(var(--color-foreground));
+  }
+  .breadcrumb a {
+    color: rgb(var(--color-foreground));
+  }
+</style>

@@ -1,5 +1,13 @@
 {
   "sections": {
+    "breadcrumbs_QiBHYf": {
+      "type": "breadcrumbs",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "subscription_hero_QfPyYj": {
       "type": "subscription-hero",
       "settings": {
@@ -364,6 +372,7 @@
     }
   },
   "order": [
+    "breadcrumbs_QiBHYf",
     "subscription_hero_QfPyYj",
     "custom_liquid_VQDaA8",
     "rich_text_g4Gadb",

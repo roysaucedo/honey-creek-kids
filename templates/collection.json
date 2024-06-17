@@ -1,5 +1,12 @@
 {
   "sections": {
+    "breadcrumbs_MkDDkd": {
+      "type": "breadcrumbs",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "custom_css": [
@@ -16,7 +23,7 @@
       "custom_css": [
         ".h5 {font-size: 18px;}",
         ".price {font-size: 16px;}",
-        "@media only screen and (min-width: 768px) {\/* For desktop: *\/ .h5 {font-size: 22px; } .price {font-size: 18px;}}"
+        "@media only screen and (min-width: 768px) {\/* For desktop: *\/ .h5 {font-size: 22px; } .price {font-size: 18px; }}"
       ],
       "settings": {
         "products_per_page": 24,
@@ -144,6 +151,7 @@
     }
   },
   "order": [
+    "breadcrumbs_MkDDkd",
     "banner",
     "product-grid",
     "section_collection_header_Nin3Y8"

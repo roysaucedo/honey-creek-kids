@@ -1,5 +1,12 @@
 {
   "sections": {
+    "breadcrumbs_VF97BK": {
+      "type": "breadcrumbs",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -49,7 +56,7 @@
         "custom_id": "custom-id",
         "title": "For Kids",
         "heading_size": "h1",
-        "description": "",
+        "description": "<h2>3 for $45 - Save $15<\/h2>",
         "show_description": false,
         "description_style": "body",
         "collection": "abcs-of-character-for-kids",
@@ -154,6 +161,7 @@
     }
   },
   "order": [
+    "breadcrumbs_VF97BK",
     "main",
     "rich_text_HCj9Rh",
     "featured_collection_LCQQ9F",

@@ -1,5 +1,10 @@
 {
   "sections": {
+    "breadcrumbs_wxDcmf": {
+      "type": "breadcrumbs",
+      "settings": {
+      }
+    },
     "main": {
       "type": "main-page",
       "custom_css": [
@@ -148,6 +153,7 @@
     }
   },
   "order": [
+    "breadcrumbs_wxDcmf",
     "main",
     "featured_collection_FQLPia",
     "featured_collection_GkVqg9",

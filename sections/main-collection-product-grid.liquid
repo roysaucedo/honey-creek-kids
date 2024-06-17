@@ -155,13 +155,13 @@
                     style="--animation-order: {{ forloop.index }};"
                   {% endif %}
                 >
-                <div class="card__badge top right" style="position: absolute; top: 5px; left: 5px; z-index:99999;">
+                <!-- <div class="card__badge top right" style="position: absolute; top: 5px; left: 5px; z-index:99999;">
                   {% if product.metafields.custom.collection_page_card_tag != blank %}
                   <span class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}">
                   {{ product.metafields.custom.collection_page_card_tag }}
                 </span>
                   {% endif %}
-                </div>
+                </div> -->
 
 
                   {% render 'card-product',
