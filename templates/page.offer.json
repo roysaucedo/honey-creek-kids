@@ -26,7 +26,7 @@
       "type": "image-text-hero",
       "settings": {
         "h1": "Heading",
-        "p": "Paragraph text goes here",
+        "p": "<p>Paragraph text goes here</p>",
         "subtext": "Add your subtext here",
         "button_text": "Button Text",
         "button_link": "",
@@ -39,31 +39,31 @@
         "slide_mmKGE8": {
           "type": "Slide",
           "settings": {
-            "rich_text": "<p>Enter your review text here. Enter your review text here. Enter your review text here. Enter your review text here.<\/p>"
+            "rich_text": "<p>Enter your review text here. Enter your review text here. Enter your review text here. Enter your review text here.</p>"
           }
         },
         "slide_FFcmWR": {
           "type": "Slide",
           "settings": {
-            "rich_text": "<p>Enter your review text here. Enter your review text here. Enter your review text here. Enter your review text here.<\/p>"
+            "rich_text": "<p>Enter your review text here. Enter your review text here. Enter your review text here. Enter your review text here.</p>"
           }
         },
         "slide_gmCGTb": {
           "type": "Slide",
           "settings": {
-            "rich_text": "<p>Enter your review text here. Enter your review text here. Enter your review text here. Enter your review text here.<\/p>"
+            "rich_text": "<p>Enter your review text here. Enter your review text here. Enter your review text here. Enter your review text here.</p>"
           }
         },
         "slide_yB3UV3": {
           "type": "Slide",
           "settings": {
-            "rich_text": "<p>Enter your review text here. Enter your review text here. Enter your review text here. Enter your review text here.<\/p>"
+            "rich_text": "<p>Enter your review text here. Enter your review text here. Enter your review text here. Enter your review text here.</p>"
           }
         },
         "slide_Cr3WbE": {
           "type": "Slide",
           "settings": {
-            "rich_text": "<p>Enter your review text here. Enter your review text here. Enter your review text here. Enter your review text here.<\/p>"
+            "rich_text": "<p>Enter your review text here. Enter your review text here. Enter your review text here. Enter your review text here.</p>"
           }
         }
       },
@@ -92,7 +92,7 @@
         "paragraph_NFGhCd": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+            "text": "<p>Be the first to know about new collections and exclusive offers.</p>"
           }
         },
         "email_form_yjGpWV": {

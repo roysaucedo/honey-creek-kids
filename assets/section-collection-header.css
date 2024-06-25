@@ -20,7 +20,7 @@
     color: white;
 }
 
-.collection-header--ico div:hover {
+.collection-header--icon div:hover {
     color: white !important;
 }
 
@@ -33,21 +33,18 @@
 
 .collection-header--icon-title {
     border-radius: 100px;
-    padding: 8px 15px;
+    padding: 10px 20px;
     text-decoration: none;
-    /* background-color: rgb(var(--color-foreground)); */
     border: 1px solid rgb(var(--color-foreground));
-    /* color: white; */
+    color: rgb(var(--color-foreground));
     cursor: pointer;
+    height: 50px;
 }
 
 .collection-header--icon-title:hover {
-    border-radius: 100px;
-    padding: 8px 15px;
     background-color: rgb(var(--color-foreground));
     border: 1px solid rgb(var(--color-foreground));
     color: white;
-    cursor: pointer;
 }
 
 
