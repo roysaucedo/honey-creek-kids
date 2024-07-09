@@ -20,6 +20,25 @@
   {% render 'card-product', show_vendor: section.settings.show_vendor %}
 {% endcomment %}
 
+<style>
+  /* For mobile phones: */
+  .collection-pager-card--tag {
+    background-color: #71C1E7;
+    color: white;
+    border-radius: 100px;
+    padding: 6px 8px;
+    font-size: 12px;
+  }
+
+@media only screen and (min-width: 768px) {
+  /* For desktop: */
+  .collection-pager-card--tag {
+    font-size: 16px;
+  }
+}
+ 
+</style>
+
 {{ 'component-rating.css' | asset_url | stylesheet_tag }}
 {{ 'component-volume-pricing.css' | asset_url | stylesheet_tag }}
 
@@ -203,7 +222,9 @@
 
             {% render 'price', product: card_product, price_class: '', show_compare_at_price: true %}
             <!-- ADD METAFIELD HERE -->
-            <span style="font-size: 14px;">{{ card_product.metafields.custom.collection_page_card_tag }}</span>
+            {% if card_product.metafields.custom.collection_page_card_tag != blank %}
+            <span class="collection-pager-card--tag">{{ card_product.metafields.custom.collection_page_card_tag }}</span>
+            {% endif %}
             
             {%- if card_product.quantity_price_breaks_configured? -%}
               <div class="card__information-volume-pricing-note">
