@@ -5,6 +5,14 @@
   text-decoration: none;
 }
 
+@media only screen and (min-width: 768px) {
+  /* For desktop: */
+  .card-wrapper {
+    padding: 20px;
+  }
+}
+
+
 .card {
   text-decoration: none;
   text-align: var(--text-alignment);
