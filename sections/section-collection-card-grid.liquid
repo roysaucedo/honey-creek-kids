@@ -20,6 +20,9 @@
 {%- endstyle -%}
 
 <div class="page-width section-{{ section.id }}-padding">
+    <h2 class="h1 text-center title--primary{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--fade-in{% endif %}">
+      {{ section.settings.h2}}
+    </h2>
     <div class="collection--card-grid">
         {% for block in section.blocks %}
             <a href="{{ block.settings.link }}" class="collection--card-{{ block.id }}">
@@ -125,6 +128,12 @@
   "tag": "section",
   "class": "section",
   "settings": [
+    {
+     "type": "text",
+     "id": "h2",
+     "default": "Heading",
+     "label": "Heading"
+    },
      {
       "type": "range",
       "id": "padding_top",
