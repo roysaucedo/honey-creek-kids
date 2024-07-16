@@ -3,6 +3,8 @@
     "breadcrumbs_wxDcmf": {
       "type": "breadcrumbs",
       "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "main": {
@@ -85,6 +87,7 @@
     },
     "featured_collection_wpwTXK": {
       "type": "featured-collection",
+      "disabled": true,
       "custom_css": [
         ".h5 {font-size: 18px;}",
         ".price {font-size: 16px;}",

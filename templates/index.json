@@ -4,7 +4,7 @@
       "type": "image-text-hero",
       "settings": {
         "h1": "Better Kids Make A Better World",
-        "p": "<p>HoneyCreek Kids aims to positively influence families by creating life-changing products and materials that inspire.<\/p>",
+        "p": "<p>Honey Creek U aims to positively influence families by creating life-changing products and materials that inspire.<\/p>",
         "subtext": "Over 1,000,000+ copies sold",
         "button_text": "Explore Our Collections",
         "button_link": "shopify:\/\/pages\/shop-all",
@@ -140,7 +140,7 @@
       "type": "section-values-v2",
       "settings": {
         "h1": "Gold Label Values",
-        "p": "<p>At Honey Creek, we offer a collection of products and resources that embody timeless values. Our content is not just inspirational, meaningful, and endearing but is also seamlessly integrated into daily life, making it easy to listen to, watch, or read.<\/p><p>Rooted in the philosophy of <span style=\"text-decoration:underline\"><em><strong>'Sing It and You'll Never Forget It'<\/strong><\/em><\/span>, our products are designed to be enjoyed repeatedly by children, youth, and adults alike. <\/p><p>Our offerings go beyond mere entertainment; they serve as a powerful tool to reinforce essential behavioral traits and skills.By providing positive alternatives to negative behavior, we contribute to personal growth and development. With a focus on teaching basic living skills, our products carry positive core values that align with the principles of successful living.<\/p><p>What sets us apart is the simplicity and accessibility of our products. With little to no preparation required, they are easy to use and easily orchestrate into various aspects of life. Moreover, our content encourages observation and awareness traits, fostering a mindset that engages users to serve others, mentor, and undergo positive character transformation.<\/p><p>We are dedicated to creating an enriching experience that not only entertains, but also educates and inspires individuals of all ages. Join us on a journey of personal growth, positive change, and a celebration of timeless values.<\/p><p><\/p>",
+        "p": "<p>At Honey Creek U, we offer a collection of products and resources that embody timeless values. Our content is not just inspirational, meaningful, and endearing but is also seamlessly integrated into daily life, making it easy to listen to, watch, or read.<\/p><p>Rooted in the philosophy of <span style=\"text-decoration:underline\"><em><strong>'Sing It and You'll Never Forget It'<\/strong><\/em><\/span>, our products are designed to be enjoyed repeatedly by children, youth, and adults alike. <\/p><p>Our offerings go beyond mere entertainment; they serve as a powerful tool to reinforce essential behavioral traits and skills.By providing positive alternatives to negative behavior, we contribute to personal growth and development. With a focus on teaching basic living skills, our products carry positive core values that align with the principles of successful living.<\/p><p>What sets us apart is the simplicity and accessibility of our products. With little to no preparation required, they are easy to use and easily orchestrate into various aspects of life. Moreover, our content encourages observation and awareness traits, fostering a mindset that engages users to serve others, mentor, and undergo positive character transformation.<\/p><p>We are dedicated to creating an enriching experience that not only entertains, but also educates and inspires individuals of all ages. Join us on a journey of personal growth, positive change, and a celebration of timeless values.<\/p><p><\/p>",
         "btn_text": "Learn More",
         "link": "shopify:\/\/pages\/honey-creek-kids-values",
         "img_top_right": "shopify:\/\/shop_images\/GOLD_1.png",
@@ -386,6 +386,7 @@
     },
     "pagefly-home": {
       "type": "pagefly-home",
+      "disabled": true,
       "settings": {
       }
     }
