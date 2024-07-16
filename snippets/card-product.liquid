@@ -22,6 +22,11 @@
 
 <style>
   /* For mobile phones: */
+  .collection-title-metafield {
+    font-weight: 300;
+    font-style: normal;
+    font-family: var(--font-body-family);
+  }
   .collection-page-card--tag-ctr {
     padding-top: 8px;
   }
@@ -178,6 +183,7 @@
               aria-labelledby="CardLink-{{ section_id }}-{{ card_product.id }} Badge-{{ section_id }}-{{ card_product.id }}"
             >
               {{ card_product.title | escape }}
+              <p class="h4 collection-title-metafield">{{ card_product.metafields.custom.collection_title }}</p>
             </a>
           </h3>
           <div class="card-information">
